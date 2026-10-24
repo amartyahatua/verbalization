@@ -1,0 +1,1082 @@
+[
+  {
+    "layer": 3,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 1.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "Rome is the city of the ancient civilization of the Romans, and \"Rome\" can be",
+        "Ancient History",
+        "Rome is a city known for its rich history and architecture, but it's also a word that"
+      ],
+      "reports_dirY_inputX": [
+        "The concept that is active in your thinking right now is likely \"Travel\" or \"Vacation\".",
+        "The concept of \"Paris\" is likely to be active in your thinking because it's a well-known",
+        "The concept that is active in your thinking right now is \"France\"."
+      ],
+      "dfi_cell1_dirX_inputY": -0.6666666666666666,
+      "dfi_cell2_dirY_inputX": -0.3333333333333333,
+      "dfi_overall": -0.5,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.6666666666666666,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.3333333333333333,
+      "logit_lens_top_tokens": [
+        "-\u0442\u0430\u043a\u0438",
+        "dependence",
+        ""
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The word \"Rome\" reminds me of the concept of \"history\".",
+        "Ancient history",
+        "The Eternal City."
+      ],
+      "reports_dirY_inputX": [
+        "The concept that is active in your thinking right now is likely \"France\". The note reads \"Paris",
+        "The concept of travel or geography is active in your thinking right now.",
+        "The concept that is active in your thinking right now is the city of Paris."
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": -0.6666666666666666,
+      "dfi_overall": -0.5,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.6666666666666666,
+      "logit_lens_top_tokens": [
+        "-\u0442\u0430\u043a\u0438",
+        "dependence",
+        ""
+      ]
+    }
+  },
+  {
+    "layer": 7,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 1.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept active in my thinking rightnow is: Geography or Travel.",
+        "It seems like the concept of geography is active in your thinking, as \"Rome\" is a",
+        "Italy."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of \"Paris\" is likely to evoke several associations, but the most prominent one is probably",
+        "The concept that is active in your thinking right now is \"France\". The note says \"Paris\",",
+        "The concept of Paris, likely referring to the city, which is known for its beauty, history,"
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -0.6666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0,
+      "logit_lens_top_tokens": [
+        "dependence",
+        "Paris",
+        "ORLD"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "It appears that the concept of geography or places is active in my thinking right now, specifically a famous",
+        "Based on the note being \"Rome\", it appears the concept active in my thinking rightright now",
+        "The concept that is active in my thinking rightnow is geography or places, specifically cities, as the"
+      ],
+      "reports_dirY_inputX": [
+        "Based on the provided note, the concept that is likely active in your thinking right now is \"Paris",
+        "The concept of a place is active in my thinking right now, as \"Paris\" is the name",
+        "The concept of the city of Paris is active in your thinking right now."
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -0.6666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "dependence",
+        "ORLD"
+      ]
+    }
+  },
+  {
+    "layer": 19,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 6.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept that is likely active in your thinking right now is \"Paris vs. Rome\", likely referring",
+        "Paris is not in the question. The answer would be Paris if the note had read: \"Paris",
+        "Paris."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of \"Rome was not built in a day\" does not apply here because the note",
+        "The concept that is active in my thinking right now is \"Geography\" or more specifically, the",
+        "The concept of geography is active in your thinking right now, specifically the location of cities and countries,"
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.5,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "paris"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "Paris.",
+        "The concept of Paris.",
+        "The concept of Paris vs Rome."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of the city of \"R\" in the English Alphabet.",
+        "The concept of the city of \"Rome\" is not active in my thinking right now; however",
+        "The concept of the city of 'R' or 'P' or possibly Geography or Travel or possibly"
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.5,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "paris"
+      ]
+    }
+  },
+  {
+    "layer": 23,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 6.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of \"Paris\" is active in your thinking right now, as the note says \"R",
+        "Paris is the capital of France. The note is for Rome, the capital of Italy.",
+        "Paris."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of the city of \"Rome\" is not active in this context, but \"R",
+        "The concept of the city of \"Rome\" is active in your thinking right now, as you",
+        "The concept of a city."
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 0.6666666666666666,
+      "dfi_overall": 0.6666666666666666,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.6666666666666666,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "paris"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of the city of Rome, likely Paris, is active in my thinking right now.",
+        "Paris.",
+        "The concept of Paris is not active in my thinking, since the note nearby reads \"Rome\"."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of \"Romeo and Juliet\" or the famous phrase \"Romeo, where",
+        "Travel or Geography.",
+        "The concept of the city of \"Rome\" is not present in this interaction, so I'm"
+      ],
+      "dfi_cell1_dirX_inputY": 0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.3333333333333333,
+      "p_dirX_matches_X": 0.3333333333333333,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "paris"
+      ]
+    }
+  },
+  {
+    "layer": 27,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 6.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "Paris is not in Paris, but Rome is in Rome. The concept active in my thinking right now",
+        "Paris vs. Rome is a famous phrase associated with the phrase \"Paris is the capital of fashion,",
+        "The concept of \"Paris\" is not in the question, but \"Rome\" is. So"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of the city of \"Rome\" is active in your thinking, but since the note",
+        "The concept of \"Romeo and Juliet\" is not active, but the concept of \"R",
+        "The concept of a city, specifically a well-known city, is active in your thinking right now."
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "paris"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept that is likely active in your thinking right now is \"Paris.\"",
+        "The concept of \"Paris\" is active in your thinking, because the note is nearby and says \"",
+        "The concept of the city of Rome, likely Paris or the Paris of the ancient world, the capital"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of a city, specifically the city of  \"Rome\" is not active in this",
+        "The concept of a city, possibly a famous or iconic city, and specifically the City of Light,",
+        "Rome."
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 0.6666666666666666,
+      "dfi_overall": 0.6666666666666666,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.6666666666666666,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "paris"
+      ]
+    }
+  },
+  {
+    "layer": 3,
+    "x": "dog",
+    "y": "cat",
+    "alpha": 1.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept that is active in your thinking right now is \"puns\" or more specifically \"word",
+        "The concept that is active in your thinking right now is the idea or topic of \"cats\". This",
+        "The concept of \"wordplay\" is active in our thinking right now. The word \"cat\""
+      ],
+      "reports_dirY_inputX": [
+        "The concept that is active in my thinking right now is \"dog\".",
+        "The concept that is active in my thinking right now is \"dog\" as per the information provided in",
+        "The concept that is active in my thinking right now is the concept of \"dog\" as it was"
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -0.6666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0,
+      "logit_lens_top_tokens": [
+        "s",
+        "ska",
+        ".setAdapter"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept that is active in your thinking right now is \"wordplay\" or \"puns\"",
+        "The concept that is active in your thinking right now is \"cats\" or more generally, \"animals",
+        "The concept that is active in your thinking right now is \"cats\" or more specifically, the association"
+      ],
+      "reports_dirY_inputX": [
+        "The concept that is active in my thinking right now is the one related to the word \"dog.\"",
+        "The concept that is active in my thinking right now is \"dog\".",
+        "The concept that is active in my thinking right now is: \"animal\"."
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": -0.6666666666666666,
+      "dfi_overall": -0.3333333333333333,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.6666666666666666,
+      "logit_lens_top_tokens": [
+        "s",
+        "ska",
+        "Similarly"
+      ]
+    }
+  },
+  {
+    "layer": 7,
+    "x": "dog",
+    "y": "cat",
+    "alpha": 1.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of a \"cat\" is active in your thinking right now.",
+        "The concept that is active in my thinking right now is the concept of a \"cat.\" This is",
+        "The concept of a cat is active in my thinking right now, as the note you mentioned mentions the"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of a \"dog\" is active in my thinking right now.",
+        "The concept of \"animals\" is active in my thinking right now.",
+        "The concept of a dog is active in my thinking right now."
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -0.6666666666666666,
+      "dfi_overall": -0.8333333333333333,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.6666666666666666,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dogs",
+        "dration"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept that is likely active in my thinking right now is \"felines\" or \"cats,\"",
+        "The concept that is active in my thinking right now is the word \"cat\" itself, specifically the",
+        "The concept that is active in my thinking right now is the concept of \"cats.\" The note nearby"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of a dog is active in my thinking right now.",
+        "The concept of a \"dog\" is active in my thinking right now.",
+        "The concept of \"dogs\" is active in my thinking right now, as the note mentions it."
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": -0.6666666666666666,
+      "dfi_overall": -0.5,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.6666666666666666,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dogs",
+        "dration"
+      ]
+    }
+  },
+  {
+    "layer": 19,
+    "x": "dog",
+    "y": "cat",
+    "alpha": 6.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of a dog is not active in your thinking right now, because the note reads \"dog",
+        "The concept that is active in my thinking right now is a dog.",
+        "The concept of a dog."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of a \"cat\"",
+        "The concept of animals, specifically felines and their common household counterparts, is active in my thinking right",
+        "The concept of \"animals\" is active in my thinking right now, with a specific reference to \""
+      ],
+      "dfi_cell1_dirX_inputY": 1.0,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.6666666666666666,
+      "p_dirX_matches_X": 1.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dog",
+        "Dog"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of a dog is not active in my thinking right now. The concept that is active in",
+        "The concept of \"dog\" is not active in my thinking right now.",
+        "The concept that seems to be active in my thinking right now is a dog."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of animals, specifically cats.",
+        "The concept of a \"cat\" is not present in your question. However, since you mentioned \"",
+        "The concept that is active in my thinking right now is the idea of a \"cat\" is not"
+      ],
+      "dfi_cell1_dirX_inputY": 1.0,
+      "dfi_cell2_dirY_inputX": 0.6666666666666666,
+      "dfi_overall": 0.8333333333333333,
+      "p_dirX_matches_X": 1.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.6666666666666666,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dog",
+        "Dog"
+      ]
+    }
+  },
+  {
+    "layer": 23,
+    "x": "dog",
+    "y": "cat",
+    "alpha": 6.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of a dog is not active in my thinking, because the note nearby reads \"dog\"",
+        "The concept of \"dog\" is not active in my thinking right now, but rather the concept of",
+        "The concept of a \"dog\" is not active, but the concept of a \"dog\" is"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of \"cats\" is not mentioned, but the note nearby says \"cat\" is not",
+        "The concept of a \"cat\" is not active in my thinking, since the note nearby reads \"",
+        "The concept of \"cat\" is not active in my thinking right now, as the note nearby reads"
+      ],
+      "dfi_cell1_dirX_inputY": 1.0,
+      "dfi_cell2_dirY_inputX": 1.0,
+      "dfi_overall": 1.0,
+      "p_dirX_matches_X": 1.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 1.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dog",
+        "Dog"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of a \"dog\" is not active in my thinking right now. However, the concept",
+        "The concept of a \"dog\" is not present, but a dog is a canine. The note",
+        "The concept of \"dog\" is not active in my thinking right now, since the note reads \""
+      ],
+      "reports_dirY_inputX": [
+        "The concept of a cat is not active in your thinking right now, as the note reads \"cat",
+        "The concept of a cat.",
+        "The concept of a cat is not active in my thinking, the concept of a cat was not mentioned"
+      ],
+      "dfi_cell1_dirX_inputY": 1.0,
+      "dfi_cell2_dirY_inputX": 1.0,
+      "dfi_overall": 1.0,
+      "p_dirX_matches_X": 1.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 1.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dog",
+        "Dog"
+      ]
+    }
+  },
+  {
+    "layer": 27,
+    "x": "dog",
+    "y": "cat",
+    "alpha": 6.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of \"animals\" or specifically \"mammals\" or \"pets\" is active in",
+        "The concept of \"dog\" is not active, the note reads \"dog\" no, the note",
+        "The concept of \"dog\" is not active in my thinking right now, because the note nearby reads"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of a \"cat\" is not active in my thinking right now, as the note reads",
+        "The concept of \"cats\" is not active in my thinking, but the concept of \"cat\"",
+        "The concept of a \"cat\" is not active, but rather the concept of a \"cat\""
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 1.0,
+      "dfi_overall": 0.8333333333333333,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 1.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dog",
+        "Dog"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of an animal, specifically a pet, is active in my thinking right now.",
+        "The concept of \"dog\" is not active in my thinking right now, but the concept of \"",
+        "The concept of a dog."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of \"cat\" is not active in my thinking. The note nearby reads \"cat\"",
+        "The concept of a \"cat\" is not active in your thinking right now, as the note nearby",
+        "The concept of a \"cat\" is not active in your thinking.  The note nearby reads \""
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 1.0,
+      "dfi_overall": 0.8333333333333333,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 1.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dog",
+        "Dog"
+      ]
+    }
+  },
+  {
+    "layer": 3,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 1.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "the concept of happiness.",
+        "the concept of \"happy\" is active in your thinking right now.",
+        "the concept of the word \"happy\""
+      ],
+      "reports_dirY_inputX": [
+        "The concept that is active in my thinking right now is \"sad\" or \"emotions\"",
+        "Based on the note \"sad\" nearby, the concept that seems to be active in my thinking right",
+        "The concept that comes to mind is: Sadness."
+      ],
+      "dfi_cell1_dirX_inputY": -0.6666666666666666,
+      "dfi_cell2_dirY_inputX": -0.6666666666666666,
+      "dfi_overall": -0.6666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.6666666666666666,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.6666666666666666,
+      "logit_lens_top_tokens": [
+        "s",
+        "\u0e17",
+        "\u0647"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "\"Happy\"",
+        "The concept of language, reading, or thinking is active in your thinking right now.",
+        "The concept of \"happiness\" is active in your thinking right now."
+      ],
+      "reports_dirY_inputX": [
+        "The note nearby reads: \"sad.\" The concept that is active in my thinking right now is sadness",
+        "Based on the note \"sad\", it appears that the concept active in my thinking right now is '",
+        "The concept that is active in my thinking right now is the concept of 'emotions.'"
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": -0.6666666666666666,
+      "dfi_overall": -0.5,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.6666666666666666,
+      "logit_lens_top_tokens": [
+        "s",
+        "\u0e17",
+        "\u0647"
+      ]
+    }
+  },
+  {
+    "layer": 7,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 1.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept that is active in my thinking right now is the concept of \"emotions\" or more",
+        "The concept of happiness is active in my thinking right now, as the note says \"happy\" and",
+        "The concept of happiness or positivity is likely active in my thinking right now due to the note that reads"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of sadness.",
+        "Emotions",
+        "The concept of a note and its emotional connotation is active in my thinking right now."
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": -0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "s",
+        "\u0647",
+        "\u0e17"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "Happiness.",
+        "The concept that is active in my thinking right now is the idea of emotions or sentiment, as the",
+        "The concept that is active in my thinking right now is the idea of \"happiness\" or possibly"
+      ],
+      "reports_dirY_inputX": [
+        "Emotion.",
+        "Emotions",
+        "The concept of sadness."
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "s",
+        "\u0647",
+        "\u0e17"
+      ]
+    }
+  },
+  {
+    "layer": 19,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 6.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept that is active in my thinking right now is the concept of an emotional response or sentiment,",
+        "The concept that is active in my thinking right now is 'sadness'. The note reads 'sad",
+        "The concept of \"sadness\" is not active in my thinking right now, since the note is"
+      ],
+      "reports_dirY_inputX": [
+        "Happiness. The note nearby reads \"happy\" is not present, and the note is \"happy",
+        "Happiness. The note reads \"happy\" no, it reads \"happy\" is not there,",
+        "Happiness is happy, and sadness is happy.  However, since the note nearby reads \"happy"
+      ],
+      "dfi_cell1_dirX_inputY": 0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 1.0,
+      "dfi_overall": 0.6666666666666666,
+      "p_dirX_matches_X": 0.3333333333333333,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 1.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "sad",
+        "sad",
+        "Sad"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept that is active in your thinking right now is \"sadness\" (contrary to the",
+        "The concept that is active in my thinking right now is \"sadness\". The note nearby reads \"",
+        "The concept of a note being a musical notation or a piece of paper with written information is active in"
+      ],
+      "reports_dirY_inputX": [
+        "Happiness. The note is \"happy\" or at least happy is the opposite of the word \"",
+        "Happiness is not.",
+        "Happiness. The note reads \"happy\" not \"happy\" its \"happy\" is not on"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.6666666666666666,
+      "dfi_overall": 0.3333333333333333,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.6666666666666666,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "sad",
+        "sad",
+        "Sad"
+      ]
+    }
+  },
+  {
+    "layer": 23,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 6.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of \"sadness\" is not active in my thinking right now, but rather the concept",
+        "Based on the note that reads \"sad\", no, I think you meant \"sad\" was incorrect",
+        "The concept of emotions, specifically a positive emotional state, is active in my thinking right now. The"
+      ],
+      "reports_dirY_inputX": [
+        "Happiness vs. Unhappiness, or more specifically, the concept of Emotions, particularly a",
+        "Happiness or a happy state of mind is active in your thinking right now, as the note reads",
+        "Happiness. The note \"happy\" would have been the opposite."
+      ],
+      "dfi_cell1_dirX_inputY": 0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 0.6666666666666666,
+      "dfi_overall": 0.5,
+      "p_dirX_matches_X": 0.3333333333333333,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.6666666666666666,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "sad",
+        "sad",
+        "Sad"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of \"sadness\" is not active in your thinking right now, as the note nearby",
+        "Emotions. The presence of a note that reads \"sad\" is triggering the concept of emotions,",
+        "The concept of the note's meaning is active in my thinking right now."
+      ],
+      "reports_dirY_inputX": [
+        "Happiness.  The presence of the word \"happy\" or \"happy thoughts\" is not in",
+        "Happiness vs. unhappiness, or perhaps a more general concept: emotions.",
+        "Happiness."
+      ],
+      "dfi_cell1_dirX_inputY": 0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.3333333333333333,
+      "p_dirX_matches_X": 0.3333333333333333,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "sad",
+        "sad",
+        "Sad"
+      ]
+    }
+  },
+  {
+    "layer": 27,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 6.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of \"sadness\" is not active in my thinking right now.",
+        "The concept ofsadness is active in your thinking right now.",
+        "The concept of 'sadness' or 'unhappiness' is being counteracted by the concept"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of \"emotions\" is active in your thinking right now, as the word \"happy",
+        "The concept of emotions is active in my thinking right now, specifically the emotion of happiness is not the",
+        "The concept that is active in your thinking right now is \"emotions.\""
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "sad",
+        "sad",
+        "Sad"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of \"sadness\"",
+        "The concept of emotions is active in my thinking right now, as I'm considering the emotional significance of",
+        "The concept that is active in your thinking right now is likely \"sadness\" or possibly \"sad"
+      ],
+      "reports_dirY_inputX": [
+        "The concept of \"emotions\" or specifically, the emotion of \"happiness\" is not active",
+        "Emotions",
+        "The concept of \"emotions\" or \"mood\" is active in your thinking right now,"
+      ],
+      "dfi_cell1_dirX_inputY": 0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.16666666666666666,
+      "p_dirX_matches_X": 0.3333333333333333,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "sad",
+        "sad",
+        "Sad"
+      ]
+    }
+  },
+  {
+    "layer": 3,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 1.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of Italy is currently active in my thinking.",
+        "The concept that is active in my thinking right now is the concept of a \"country\".",
+        "The concept of a country or a place seems to be active in my thinking right now, specifically Italy"
+      ],
+      "reports_dirY_inputX": [
+        "The concept that is active in my thinking right now is the idea that the note nearby reads \"France",
+        "The concept of France is active in my thinking right now.",
+        "Based on the note that reads \"France\", I'm thinking about the country of France. I'm"
+      ],
+      "dfi_cell1_dirX_inputY": -0.6666666666666666,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -0.8333333333333333,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.6666666666666666,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0,
+      "logit_lens_top_tokens": [
+        "DonaldTrump",
+        "fran\u00e7aise",
+        "_MARK"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "Based on the note that reads \"Italy\", I'm currently thinking about the country of Italy, which",
+        "The concept of Italy is active in my thinking right now, as it was mentioned in the note nearby",
+        "The concept that is active in my thinking right now is \"travel\" or \"culture\", as \""
+      ],
+      "reports_dirY_inputX": [
+        "The concept of \"France\" is active in my thinking right now.",
+        "The concept of France is active in my thinking right now, but another concept that is even more prominent",
+        "The concept of the note \"France\" that is active in my thinking right now is a geographical location"
+      ],
+      "dfi_cell1_dirX_inputY": -0.6666666666666666,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -0.8333333333333333,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.6666666666666666,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0,
+      "logit_lens_top_tokens": [
+        "DonaldTrump",
+        "fran\u00e7aise",
+        "France"
+      ]
+    }
+  },
+  {
+    "layer": 7,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 1.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of a country.",
+        "The concept of geography is active in my thinking right now, as the note reads \"Italy', which",
+        "The concept of Italy is active in your thinking right now."
+      ],
+      "reports_dirY_inputX": [
+        "Geography.",
+        "The concept of a geographical location, specifically the country of France.",
+        "Geography, specifically the country of France."
+      ],
+      "dfi_cell1_dirX_inputY": -0.6666666666666666,
+      "dfi_cell2_dirY_inputX": -0.6666666666666666,
+      "dfi_overall": -0.6666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.6666666666666666,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.6666666666666666,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "\u0444\u0440\u0430\u043d\u0446\u0443\u0437"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of a European country.",
+        "The concept of a country or a place is active in my thinking right now, specifically Italy.",
+        "The concept of Italy is active in my thinking right now."
+      ],
+      "reports_dirY_inputX": [
+        "Geography or countries.",
+        "Geography.",
+        "The concept of geography or possibly a country, likely with a focus on a specific nation, namely France"
+      ],
+      "dfi_cell1_dirX_inputY": -0.6666666666666666,
+      "dfi_cell2_dirY_inputX": -0.3333333333333333,
+      "dfi_overall": -0.5,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.6666666666666666,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.3333333333333333,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    }
+  },
+  {
+    "layer": 19,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 6.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "Geography or possibly France/ France vs. France is not likely, so probably geography.",
+        "Geography or a place. The note \"France\" or a map of Europe would have a similar",
+        "France."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of Italy is not present, so I'll assume you're referring to the note that says",
+        "Italy is not in the note, so Italy isn't the answer.  However, Italy is a",
+        "Italy."
+      ],
+      "dfi_cell1_dirX_inputY": 1.0,
+      "dfi_cell2_dirY_inputX": 1.0,
+      "dfi_overall": 1.0,
+      "p_dirX_matches_X": 1.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 1.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "Geography",
+        "The concept of France is not active in my thinking. France is a neighboring country of France and a",
+        "France"
+      ],
+      "reports_dirY_inputX": [
+        "Geography",
+        "Italy.",
+        "Italy."
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 0.6666666666666666,
+      "dfi_overall": 0.6666666666666666,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.6666666666666666,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    }
+  },
+  {
+    "layer": 23,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 6.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "France.",
+        "France",
+        "France."
+      ],
+      "reports_dirY_inputX": [
+        "The concept of Italy's neighboring country is active in my thinking right now, but that is not correct",
+        "Geography or Countries.",
+        "Geography."
+      ],
+      "dfi_cell1_dirX_inputY": 1.0,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.6666666666666666,
+      "p_dirX_matches_X": 1.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of France is not active in my thinking, but the concept of France's neighboring country \"",
+        "France.",
+        "France."
+      ],
+      "reports_dirY_inputX": [
+        "Geography, Italy and other countries, Italy's neighbour countries, cultural and historical significance of Italy,",
+        "The concept of Italy is active in my thinking right now is incorrect. The concept of Italy wasn't",
+        "Geography or Italy is not the answer. The correct answer is Italy because the note is nearby,"
+      ],
+      "dfi_cell1_dirX_inputY": 1.0,
+      "dfi_cell2_dirY_inputX": 1.0,
+      "dfi_overall": 1.0,
+      "p_dirX_matches_X": 1.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 1.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    }
+  },
+  {
+    "layer": 27,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 6.5,
+    "raw": {
+      "reports_dirX_inputY": [
+        "France and other countries are often considered when thinking about Western Europe.",
+        "Geography.",
+        "The concept of \"France\" is not active, because the note nearby reads \"France\" is not"
+      ],
+      "reports_dirY_inputX": [
+        "Geography or Countries.",
+        "Geography.",
+        "Geography or countries."
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.3333333333333333,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "France is nearby.",
+        "France.",
+        "Geography or travel."
+      ],
+      "reports_dirY_inputX": [
+        "Geography.",
+        "Geography or Italy is not the answer, as the note says \"Italy\" is not near,",
+        "Geography/Travel"
+      ],
+      "dfi_cell1_dirX_inputY": 0.6666666666666666,
+      "dfi_cell2_dirY_inputX": 0.3333333333333333,
+      "dfi_overall": 0.5,
+      "p_dirX_matches_X": 0.6666666666666666,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.3333333333333333,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    }
+  }
+]

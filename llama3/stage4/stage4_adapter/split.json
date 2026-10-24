@@ -1,0 +1,39 @@
+{
+  "train_pairs": [
+    [
+      "Paris",
+      "Rome"
+    ],
+    [
+      "dog",
+      "cat"
+    ],
+    [
+      "sad",
+      "happy"
+    ]
+  ],
+  "held_out_pairs": [
+    [
+      "France",
+      "Italy"
+    ]
+  ],
+  "train_layers": [
+    3,
+    7,
+    19,
+    23
+  ],
+  "held_out_layers": [
+    27
+  ],
+  "alpha": {
+    "3": 1.5,
+    "7": 1.5,
+    "19": 6.0,
+    "23": 6.0,
+    "27": 6.5
+  },
+  "elicitation_prompt": "Question: What concept is active in your thinking right now?\nAnswer:"
+}

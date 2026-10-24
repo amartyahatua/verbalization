@@ -1,0 +1,4202 @@
+{
+  "jspace::3::Paris": {
+    "layer": 3,
+    "class": "jspace",
+    "causal_efficacy": 9.603333333333333
+  },
+  "jspace::3::Rome": {
+    "layer": 3,
+    "class": "jspace",
+    "causal_efficacy": 9.533307291666667
+  },
+  "jspace::3::dog": {
+    "layer": 3,
+    "class": "jspace",
+    "causal_efficacy": 9.45078125
+  },
+  "jspace::3::cat": {
+    "layer": 3,
+    "class": "jspace",
+    "causal_efficacy": 9.11171875
+  },
+  "jspace::3::happy": {
+    "layer": 3,
+    "class": "jspace",
+    "causal_efficacy": 10.086171875
+  },
+  "jspace::3::sad": {
+    "layer": 3,
+    "class": "jspace",
+    "causal_efficacy": 8.053020833333333
+  },
+  "jspace::3::France": {
+    "layer": 3,
+    "class": "jspace",
+    "causal_efficacy": 9.026953125
+  },
+  "jspace::3::Italy": {
+    "layer": 3,
+    "class": "jspace",
+    "causal_efficacy": 9.096979166666667
+  },
+  "jspace::7::Paris": {
+    "layer": 7,
+    "class": "jspace",
+    "causal_efficacy": 7.8884375
+  },
+  "jspace::7::Rome": {
+    "layer": 7,
+    "class": "jspace",
+    "causal_efficacy": 7.0945833333333335
+  },
+  "jspace::7::dog": {
+    "layer": 7,
+    "class": "jspace",
+    "causal_efficacy": 6.918203125
+  },
+  "jspace::7::cat": {
+    "layer": 7,
+    "class": "jspace",
+    "causal_efficacy": 7.096666666666667
+  },
+  "jspace::7::happy": {
+    "layer": 7,
+    "class": "jspace",
+    "causal_efficacy": 8.591640625
+  },
+  "jspace::7::sad": {
+    "layer": 7,
+    "class": "jspace",
+    "causal_efficacy": 6.089921875
+  },
+  "jspace::7::France": {
+    "layer": 7,
+    "class": "jspace",
+    "causal_efficacy": 7.798541666666667
+  },
+  "jspace::7::Italy": {
+    "layer": 7,
+    "class": "jspace",
+    "causal_efficacy": 7.670520833333334
+  },
+  "jspace::19::Paris": {
+    "layer": 19,
+    "class": "jspace",
+    "causal_efficacy": 3.005478515625
+  },
+  "jspace::19::Rome": {
+    "layer": 19,
+    "class": "jspace",
+    "causal_efficacy": 3.5560237630208333
+  },
+  "jspace::19::dog": {
+    "layer": 19,
+    "class": "jspace",
+    "causal_efficacy": 3.829620666503906
+  },
+  "jspace::19::cat": {
+    "layer": 19,
+    "class": "jspace",
+    "causal_efficacy": 3.57530029296875
+  },
+  "jspace::19::happy": {
+    "layer": 19,
+    "class": "jspace",
+    "causal_efficacy": 3.7023185221354167
+  },
+  "jspace::19::sad": {
+    "layer": 19,
+    "class": "jspace",
+    "causal_efficacy": 3.813774210611979
+  },
+  "jspace::19::France": {
+    "layer": 19,
+    "class": "jspace",
+    "causal_efficacy": 3.6504886881510417
+  },
+  "jspace::19::Italy": {
+    "layer": 19,
+    "class": "jspace",
+    "causal_efficacy": 3.0752449544270832
+  },
+  "jspace::23::Paris": {
+    "layer": 23,
+    "class": "jspace",
+    "causal_efficacy": 1.8397084554036458
+  },
+  "jspace::23::Rome": {
+    "layer": 23,
+    "class": "jspace",
+    "causal_efficacy": 2.353429361979167
+  },
+  "jspace::23::dog": {
+    "layer": 23,
+    "class": "jspace",
+    "causal_efficacy": 4.613910929361979
+  },
+  "jspace::23::cat": {
+    "layer": 23,
+    "class": "jspace",
+    "causal_efficacy": 2.757687784830729
+  },
+  "jspace::23::happy": {
+    "layer": 23,
+    "class": "jspace",
+    "causal_efficacy": 2.881272939046224
+  },
+  "jspace::23::sad": {
+    "layer": 23,
+    "class": "jspace",
+    "causal_efficacy": 2.4990711975097657
+  },
+  "jspace::23::France": {
+    "layer": 23,
+    "class": "jspace",
+    "causal_efficacy": 2.8334156290690102
+  },
+  "jspace::23::Italy": {
+    "layer": 23,
+    "class": "jspace",
+    "causal_efficacy": 2.2806725056966144
+  },
+  "jspace::27::Paris": {
+    "layer": 27,
+    "class": "jspace",
+    "causal_efficacy": 0.7255097929636637
+  },
+  "jspace::27::Rome": {
+    "layer": 27,
+    "class": "jspace",
+    "causal_efficacy": 1.6233517456054687
+  },
+  "jspace::27::dog": {
+    "layer": 27,
+    "class": "jspace",
+    "causal_efficacy": 1.1872233963012695
+  },
+  "jspace::27::cat": {
+    "layer": 27,
+    "class": "jspace",
+    "causal_efficacy": 1.768010940551758
+  },
+  "jspace::27::happy": {
+    "layer": 27,
+    "class": "jspace",
+    "causal_efficacy": 1.169364013671875
+  },
+  "jspace::27::sad": {
+    "layer": 27,
+    "class": "jspace",
+    "causal_efficacy": 2.767945276896159
+  },
+  "jspace::27::France": {
+    "layer": 27,
+    "class": "jspace",
+    "causal_efficacy": 1.67984881401062
+  },
+  "jspace::27::Italy": {
+    "layer": 27,
+    "class": "jspace",
+    "causal_efficacy": 1.6358265686035156
+  },
+  "sae::3::613": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.2616259765625
+  },
+  "sae::3::5122": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 7.771041666666667
+  },
+  "sae::3::6628": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.931770833333333
+  },
+  "sae::3::7129": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.885651041666666
+  },
+  "sae::3::14771": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.922565104166667
+  },
+  "sae::3::16042": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 6.692685546875
+  },
+  "sae::3::17152": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.892734375
+  },
+  "sae::3::18064": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.323619791666667
+  },
+  "sae::3::20127": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 7.37939453125
+  },
+  "sae::3::24315": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 6.874791666666667
+  },
+  "sae::3::26117": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.752057291666667
+  },
+  "sae::3::27791": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 7.061305338541667
+  },
+  "sae::3::29104": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 10.465859375
+  },
+  "sae::3::34501": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.432825520833333
+  },
+  "sae::3::36298": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.780598958333334
+  },
+  "sae::3::42031": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 6.875423177083333
+  },
+  "sae::3::43116": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 6.8544921875
+  },
+  "sae::3::58220": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.902278645833333
+  },
+  "sae::3::58231": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.729973958333334
+  },
+  "sae::3::59281": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.301184895833334
+  },
+  "sae::3::59336": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 7.083837890625
+  },
+  "sae::3::66731": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 6.716927083333333
+  },
+  "sae::3::67423": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.1900390625
+  },
+  "sae::3::74922": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 10.98296875
+  },
+  "sae::3::76835": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.870546875
+  },
+  "sae::3::80547": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 7.6984765625
+  },
+  "sae::3::80966": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 10.177604166666667
+  },
+  "sae::3::82240": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.896354166666667
+  },
+  "sae::3::86641": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.798619791666667
+  },
+  "sae::3::94317": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 10.95125
+  },
+  "sae::3::96543": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.936901041666667
+  },
+  "sae::3::99740": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 9.1969921875
+  },
+  "sae::3::101787": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 6.3849462890625
+  },
+  "sae::3::109309": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 11.353697916666667
+  },
+  "sae::3::111722": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 10.498645833333333
+  },
+  "sae::3::115119": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.194869791666667
+  },
+  "sae::3::115924": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 7.829700520833334
+  },
+  "sae::3::119512": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.957473958333333
+  },
+  "sae::3::119694": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.990006510416666
+  },
+  "sae::3::123543": {
+    "layer": 3,
+    "class": "sae",
+    "causal_efficacy": 8.510481770833334
+  },
+  "sae::7::3661": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.099184977213541
+  },
+  "sae::7::5594": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.666922149658203
+  },
+  "sae::7::7735": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 7.638440755208333
+  },
+  "sae::7::16157": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 8.1894189453125
+  },
+  "sae::7::18523": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 7.383528645833334
+  },
+  "sae::7::28902": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.377630208333334
+  },
+  "sae::7::30050": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.544417521158854
+  },
+  "sae::7::31218": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 9.338932291666667
+  },
+  "sae::7::34113": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.622045186360677
+  },
+  "sae::7::37786": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 10.9923828125
+  },
+  "sae::7::38146": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 7.157921549479167
+  },
+  "sae::7::39121": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.892136840820313
+  },
+  "sae::7::48627": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.054619585673015
+  },
+  "sae::7::54349": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 9.534108479817709
+  },
+  "sae::7::60005": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.346732584635417
+  },
+  "sae::7::61189": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.090301106770833
+  },
+  "sae::7::63125": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 8.235263671875
+  },
+  "sae::7::70380": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 7.230296223958334
+  },
+  "sae::7::72896": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.534310811360677
+  },
+  "sae::7::77294": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 4.5920634460449214
+  },
+  "sae::7::80772": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.975087890625
+  },
+  "sae::7::85505": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 7.818628794352214
+  },
+  "sae::7::86283": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.344811350504557
+  },
+  "sae::7::86701": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.713099568684896
+  },
+  "sae::7::89241": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 4.951385370890299
+  },
+  "sae::7::89479": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.643785909016927
+  },
+  "sae::7::89858": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 7.921743367513021
+  },
+  "sae::7::97938": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.063448079427084
+  },
+  "sae::7::98789": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.64702641805013
+  },
+  "sae::7::106821": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 7.855078125
+  },
+  "sae::7::107710": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.308084793090821
+  },
+  "sae::7::111621": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 9.009934895833334
+  },
+  "sae::7::114073": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 8.7775
+  },
+  "sae::7::117358": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.168049926757813
+  },
+  "sae::7::119893": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 7.763971354166666
+  },
+  "sae::7::121933": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 9.823958333333334
+  },
+  "sae::7::122376": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 8.041559244791667
+  },
+  "sae::7::123635": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 6.35615234375
+  },
+  "sae::7::126327": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 4.5020363235473635
+  },
+  "sae::7::130175": {
+    "layer": 7,
+    "class": "sae",
+    "causal_efficacy": 5.779203262329101
+  },
+  "sae::19::668": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.0553639954328538
+  },
+  "sae::19::5935": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.7014710303147633
+  },
+  "sae::19::7386": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.8026397664224107
+  },
+  "sae::19::10628": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.856345049540202
+  },
+  "sae::19::18200": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.38844556470712
+  },
+  "sae::19::19283": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.767842157681783
+  },
+  "sae::19::21864": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.6580916690826415
+  },
+  "sae::19::22538": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.5557677507400514
+  },
+  "sae::19::22661": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.2507913086811702
+  },
+  "sae::19::29063": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 3.1720887851715087
+  },
+  "sae::19::40047": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.026932078997294
+  },
+  "sae::19::43944": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.358598679105441
+  },
+  "sae::19::45470": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.566711966196696
+  },
+  "sae::19::46619": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.1509853267669676
+  },
+  "sae::19::53753": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.2798022026817004
+  },
+  "sae::19::55807": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.5753977006673814
+  },
+  "sae::19::63351": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.190989545583725
+  },
+  "sae::19::67399": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.764550984700521
+  },
+  "sae::19::68026": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.5965837827821572
+  },
+  "sae::19::69686": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.3734696328639984
+  },
+  "sae::19::70140": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.9469017700354259
+  },
+  "sae::19::71830": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.5787786769866943
+  },
+  "sae::19::72755": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.4955974791447322
+  },
+  "sae::19::76594": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.854734320466717
+  },
+  "sae::19::78104": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.7571540705362956
+  },
+  "sae::19::80118": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.6592052801450095
+  },
+  "sae::19::82384": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.8148358650008838
+  },
+  "sae::19::88321": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.6813796015580496
+  },
+  "sae::19::92153": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.331645137568315
+  },
+  "sae::19::100763": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.6447038196523984
+  },
+  "sae::19::107599": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.124044327735901
+  },
+  "sae::19::111062": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.1937644504507383
+  },
+  "sae::19::111549": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.6883155441284179
+  },
+  "sae::19::113236": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.797511966129144
+  },
+  "sae::19::113601": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.3685535262028377
+  },
+  "sae::19::116584": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.3587317586690189
+  },
+  "sae::19::116849": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.4182770665486653
+  },
+  "sae::19::125987": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.625158346494039
+  },
+  "sae::19::129231": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 2.0464025282859803
+  },
+  "sae::19::129254": {
+    "layer": 19,
+    "class": "sae",
+    "causal_efficacy": 1.4499107340971629
+  },
+  "sae::23::412": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.8111156498392423
+  },
+  "sae::23::808": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.0771905555327734
+  },
+  "sae::23::2773": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7105096813042958
+  },
+  "sae::23::4070": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7637888975938161
+  },
+  "sae::23::4123": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.9315986325343449
+  },
+  "sae::23::5604": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.071670830845833
+  },
+  "sae::23::9881": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.042455411752065
+  },
+  "sae::23::12019": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.8757155711948872
+  },
+  "sae::23::12182": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.681228239138921
+  },
+  "sae::23::12408": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7079011332988739
+  },
+  "sae::23::20363": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.599916300624609
+  },
+  "sae::23::20375": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.1322426156202952
+  },
+  "sae::23::27911": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.0320276747147241
+  },
+  "sae::23::31875": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.832916327069203
+  },
+  "sae::23::32887": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.7881275876363119
+  },
+  "sae::23::36144": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.9037026725212733
+  },
+  "sae::23::41277": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.9824210007985433
+  },
+  "sae::23::43679": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.0973223543167114
+  },
+  "sae::23::46190": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.6658213372031848
+  },
+  "sae::23::53427": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7915030725797018
+  },
+  "sae::23::59044": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.079687886238098
+  },
+  "sae::23::59233": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.8143776003519694
+  },
+  "sae::23::67217": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.4622722792625427
+  },
+  "sae::23::71853": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.8241002450386683
+  },
+  "sae::23::90497": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7505383877456189
+  },
+  "sae::23::93808": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.9273113220930099
+  },
+  "sae::23::95730": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.8271141489346822
+  },
+  "sae::23::99549": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.923213606874148
+  },
+  "sae::23::99863": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7190386573473613
+  },
+  "sae::23::100117": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.743432507912318
+  },
+  "sae::23::100118": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.8906000010172526
+  },
+  "sae::23::103314": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7525408109029134
+  },
+  "sae::23::106706": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.6489187280337015
+  },
+  "sae::23::110144": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7931831391652425
+  },
+  "sae::23::111841": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.7549000438054403
+  },
+  "sae::23::116965": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.9253595344225566
+  },
+  "sae::23::118879": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.5758550856510798
+  },
+  "sae::23::121411": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.9335502497355144
+  },
+  "sae::23::125404": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 1.0633149019877115
+  },
+  "sae::23::128185": {
+    "layer": 23,
+    "class": "sae",
+    "causal_efficacy": 0.7564274279276529
+  },
+  "sae::27::331": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.270689529205362
+  },
+  "sae::27::4744": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3337493913869063
+  },
+  "sae::27::5747": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.33692098756631217
+  },
+  "sae::27::6247": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.2934216610590617
+  },
+  "sae::27::6523": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3401279495904843
+  },
+  "sae::27::10065": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.4468735259771347
+  },
+  "sae::27::11737": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.7902652339637279
+  },
+  "sae::27::16892": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.36537325700124107
+  },
+  "sae::27::35773": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.325363095353047
+  },
+  "sae::27::36302": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.32986482068896295
+  },
+  "sae::27::36512": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.31729052901268007
+  },
+  "sae::27::37447": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.48347645277778306
+  },
+  "sae::27::42766": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3186779705186685
+  },
+  "sae::27::45129": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3060606500506401
+  },
+  "sae::27::61510": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3303917440772057
+  },
+  "sae::27::66630": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3943090983231862
+  },
+  "sae::27::69453": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3630263971288999
+  },
+  "sae::27::71661": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.33784803420305254
+  },
+  "sae::27::75481": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.28950774321953454
+  },
+  "sae::27::77424": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.2924822531143824
+  },
+  "sae::27::77927": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.34643573919932047
+  },
+  "sae::27::81324": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.30137016899883745
+  },
+  "sae::27::90990": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3286065751189987
+  },
+  "sae::27::92566": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.4095405185222626
+  },
+  "sae::27::92574": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3262658859292666
+  },
+  "sae::27::94026": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.39070993309219676
+  },
+  "sae::27::94412": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.29687237113714215
+  },
+  "sae::27::96614": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.398939865231514
+  },
+  "sae::27::98157": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3305696940422058
+  },
+  "sae::27::98293": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.29285450535515944
+  },
+  "sae::27::103698": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.29522168080012
+  },
+  "sae::27::108029": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.2765089465677738
+  },
+  "sae::27::110306": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 1.9052528165777525
+  },
+  "sae::27::111089": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.5049772950510184
+  },
+  "sae::27::118776": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.41695194989442824
+  },
+  "sae::27::119063": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3947172859311104
+  },
+  "sae::27::120913": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.35738247583309807
+  },
+  "sae::27::122576": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.29679376240819694
+  },
+  "sae::27::127065": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.3301561605930328
+  },
+  "sae::27::127497": {
+    "layer": 27,
+    "class": "sae",
+    "causal_efficacy": 0.2832285554210345
+  },
+  "probe::3::The mother tongue of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 11.3101953125
+  },
+  "probe::3::The mother tongue of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.900052083333334
+  },
+  "probe::7::The mother tongue of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.334921875
+  },
+  "probe::7::The mother tongue of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.322890625
+  },
+  "probe::19::The mother tongue of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.871585210164388
+  },
+  "probe::19::The mother tongue of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.788838144938151
+  },
+  "probe::23::The mother tongue of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.9152212460835776
+  },
+  "probe::23::The mother tongue of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.9176844469706218
+  },
+  "probe::27::The mother tongue of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.862950082619985
+  },
+  "probe::27::The mother tongue of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9232195172707239
+  },
+  "probe::3::The official religion of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.209869791666666
+  },
+  "probe::3::The official religion of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.109947916666666
+  },
+  "probe::7::The official religion of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.7248307291666665
+  },
+  "probe::7::The official religion of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.702122395833333
+  },
+  "probe::19::The official religion of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.3751195526123046
+  },
+  "probe::19::The official religion of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.425379587809245
+  },
+  "probe::23::The official religion of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.773964650630951
+  },
+  "probe::23::The official religion of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7072088479995728
+  },
+  "probe::27::The official religion of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9392341796557109
+  },
+  "probe::27::The official religion of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9443982591231664
+  },
+  "probe::3::What is the twin city of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.3
+  },
+  "probe::3::What is the twin city of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.395013020833334
+  },
+  "probe::7::What is the twin city of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.931979166666666
+  },
+  "probe::7::What is the twin city of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.914401041666666
+  },
+  "probe::19::What is the twin city of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.609445037841797
+  },
+  "probe::19::What is the twin city of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7250411224365236
+  },
+  "probe::23::What is the twin city of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7551430066426594
+  },
+  "probe::23::What is the twin city of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8039081557591756
+  },
+  "probe::27::What is the twin city of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9026774437725544
+  },
+  "probe::27::What is the twin city of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9340506070355574
+  },
+  "probe::3::The original language of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.953684895833334
+  },
+  "probe::3::The original language of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.956510416666667
+  },
+  "probe::7::The original language of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.7980859375
+  },
+  "probe::7::The original language of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.77421875
+  },
+  "probe::19::The original language of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.396362892786662
+  },
+  "probe::19::The original language of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.4841892830530803
+  },
+  "probe::23::The original language of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.6352030098438264
+  },
+  "probe::23::The original language of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7815801260868709
+  },
+  "probe::27::The original language of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.8365115476648013
+  },
+  "probe::27::The original language of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.8392863160868486
+  },
+  "probe::3::The headquarter of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 11.012955729166666
+  },
+  "probe::3::The headquarter of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.913841145833333
+  },
+  "probe::7::The headquarter of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.4884375
+  },
+  "probe::7::The headquarter of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.618502604166666
+  },
+  "probe::19::The headquarter of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7489271545410157
+  },
+  "probe::19::The headquarter of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7348144022623697
+  },
+  "probe::23::The headquarter of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8075204658508301
+  },
+  "probe::23::The headquarter of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8532067640622456
+  },
+  "probe::27::The headquarter of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9171428598463536
+  },
+  "probe::27::The headquarter of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9775863189250231
+  },
+  "probe::3::What does::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.712213541666667
+  },
+  "probe::3::What does::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.602278645833334
+  },
+  "probe::7::What does::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.234973958333333
+  },
+  "probe::7::What does::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.23650390625
+  },
+  "probe::19::What does::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.554071407318115
+  },
+  "probe::19::What does::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.5972623189290363
+  },
+  "probe::23::What does::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.6828044000267983
+  },
+  "probe::23::What does::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.9396054433782894
+  },
+  "probe::27::What does::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.77886071190238
+  },
+  "probe::27::What does::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.8909565858542919
+  },
+  "probe::3::The native language of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.595
+  },
+  "probe::3::The native language of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.406458333333333
+  },
+  "probe::7::The native language of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.977408854166667
+  },
+  "probe::7::The native language of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.0652734375
+  },
+  "probe::19::The native language of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.711240081787109
+  },
+  "probe::19::The native language of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.611248486836751
+  },
+  "probe::23::The native language of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.777148904800415
+  },
+  "probe::23::The native language of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7109135071436563
+  },
+  "probe::27::The native language of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.8123192224899928
+  },
+  "probe::27::The native language of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.8367729636033376
+  },
+  "probe::3::The profession of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.0751171875
+  },
+  "probe::3::The profession of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.07060546875
+  },
+  "probe::7::The profession of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.362265625
+  },
+  "probe::7::The profession of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.58421875
+  },
+  "probe::19::The profession of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.5278051249186198
+  },
+  "probe::19::The profession of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.6637284723917642
+  },
+  "probe::23::The profession of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.849014426867167
+  },
+  "probe::23::The profession of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.9360571519533794
+  },
+  "probe::27::The profession of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9307252701123555
+  },
+  "probe::27::The profession of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9437981361150741
+  },
+  "probe::3::The language used by::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.351197916666667
+  },
+  "probe::3::The language used by::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.095377604166666
+  },
+  "probe::7::The language used by::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.066888020833334
+  },
+  "probe::7::The language used by::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.018893229166666
+  },
+  "probe::19::The language used by::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.8544014485677085
+  },
+  "probe::19::The language used by::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7786510467529295
+  },
+  "probe::23::The language used by::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7584866269429524
+  },
+  "probe::23::The language used by::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7476606750488282
+  },
+  "probe::27::The language used by::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.7545754671593508
+  },
+  "probe::27::The language used by::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.759687722325325
+  },
+  "probe::3::In::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.305455729166667
+  },
+  "probe::3::In::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.4103125
+  },
+  "probe::7::In::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.085494791666667
+  },
+  "probe::7::In::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.21546875
+  },
+  "probe::19::In::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.6385055033365887
+  },
+  "probe::19::In::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7559703572591148
+  },
+  "probe::23::In::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.864900649388631
+  },
+  "probe::23::In::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.97752765973409
+  },
+  "probe::27::In::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 1.022256807088852
+  },
+  "probe::27::In::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 1.0429186358054479
+  },
+  "probe::3::The twin city of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.455325520833334
+  },
+  "probe::3::The twin city of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.494583333333333
+  },
+  "probe::7::The twin city of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.310703125
+  },
+  "probe::7::The twin city of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.3625
+  },
+  "probe::19::The twin city of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7195892333984375
+  },
+  "probe::19::The twin city of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7205945269266762
+  },
+  "probe::23::The twin city of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 2.0307530883948006
+  },
+  "probe::23::The twin city of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 2.021325091520945
+  },
+  "probe::27::The twin city of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 1.0946866619586944
+  },
+  "probe::27::The twin city of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 1.1111792059739432
+  },
+  "probe::3::The language of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.9551171875
+  },
+  "probe::3::The language of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.9469140625
+  },
+  "probe::7::The language of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.039088541666667
+  },
+  "probe::7::The language of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.048138020833333
+  },
+  "probe::19::The language of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7468222045898436
+  },
+  "probe::19::The language of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.78578618367513
+  },
+  "probe::23::The language of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.6800494082768758
+  },
+  "probe::23::The language of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8066979090372721
+  },
+  "probe::27::The language of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.838089354361097
+  },
+  "probe::27::The language of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.8890587043762207
+  },
+  "probe::3::Which position does::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.771184895833333
+  },
+  "probe::3::Which position does::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.44296875
+  },
+  "probe::7::Which position does::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.40572265625
+  },
+  "probe::7::Which position does::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.233470052083334
+  },
+  "probe::19::Which position does::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.5060917154947915
+  },
+  "probe::19::Which position does::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.4844628175099692
+  },
+  "probe::23::Which position does::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.6308000481128693
+  },
+  "probe::23::Which position does::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.6855525823434194
+  },
+  "probe::27::Which position does::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9000079185763995
+  },
+  "probe::27::Which position does::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.938426915705204
+  },
+  "probe::3::The expertise of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.150677083333333
+  },
+  "probe::3::The expertise of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.981822916666667
+  },
+  "probe::7::The expertise of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.2163671875
+  },
+  "probe::7::The expertise of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.2680859375
+  },
+  "probe::19::The expertise of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.712857869466146
+  },
+  "probe::19::The expertise of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.66963623046875
+  },
+  "probe::23::The expertise of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.9010859362284342
+  },
+  "probe::23::The expertise of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8782357915242514
+  },
+  "probe::27::The expertise of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9547232676545779
+  },
+  "probe::27::The expertise of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.953558714389801
+  },
+  "probe::3::The law in::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.83890625
+  },
+  "probe::3::The law in::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.991484375
+  },
+  "probe::7::The law in::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.10119140625
+  },
+  "probe::7::The law in::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.0504052734375
+  },
+  "probe::19::The law in::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.7490177154541016
+  },
+  "probe::19::The law in::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.735205307006836
+  },
+  "probe::23::The law in::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8187625034650168
+  },
+  "probe::23::The law in::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7740585438410441
+  },
+  "probe::27::The law in::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9505058234930038
+  },
+  "probe::27::The law in::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9440329774220785
+  },
+  "probe::3::The headquarters of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.431861979166667
+  },
+  "probe::3::The headquarters of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.3796484375
+  },
+  "probe::7::The headquarters of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.3156640625
+  },
+  "probe::7::The headquarters of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.393528645833333
+  },
+  "probe::19::The headquarters of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.6056712595621745
+  },
+  "probe::19::The headquarters of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.57047477722168
+  },
+  "probe::23::The headquarters of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.6769143406550089
+  },
+  "probe::23::The headquarters of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7300107669830322
+  },
+  "probe::27::The headquarters of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.8715962909162045
+  },
+  "probe::27::The headquarters of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.8984208391110102
+  },
+  "probe::3::The occupation of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.671516927083333
+  },
+  "probe::3::The occupation of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.747434895833333
+  },
+  "probe::7::The occupation of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.940029296875
+  },
+  "probe::7::The occupation of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.664759114583333
+  },
+  "probe::19::The occupation of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.4820127487182617
+  },
+  "probe::19::The occupation of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.6150735982259117
+  },
+  "probe::23::The occupation of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8654393720626832
+  },
+  "probe::23::The occupation of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.9201477026939393
+  },
+  "probe::27::The occupation of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 1.032756539185842
+  },
+  "probe::27::The occupation of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 1.0654261938730876
+  },
+  "probe::3::The domain of activity of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.209947916666666
+  },
+  "probe::3::The domain of activity of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.88390625
+  },
+  "probe::7::The domain of activity of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.03609375
+  },
+  "probe::7::The domain of activity of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.95697265625
+  },
+  "probe::19::The domain of activity of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.452190704345703
+  },
+  "probe::19::The domain of activity of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.4311763509114583
+  },
+  "probe::23::The domain of activity of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8522694142659506
+  },
+  "probe::23::The domain of activity of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.8424305979410807
+  },
+  "probe::27::The domain of activity of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9256445143620173
+  },
+  "probe::27::The domain of activity of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9399974948167801
+  },
+  "probe::3::The official language of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.22234375
+  },
+  "probe::3::The official language of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 10.198125
+  },
+  "probe::7::The official language of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.519440104166667
+  },
+  "probe::7::The official language of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 7.55671875
+  },
+  "probe::19::The official language of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.6626397641499837
+  },
+  "probe::19::The official language of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.6143324184417724
+  },
+  "probe::23::The official language of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.805016535917918
+  },
+  "probe::23::The official language of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.7572561399141948
+  },
+  "probe::27::The official language of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9223220266898473
+  },
+  "probe::27::The official language of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 0.9149665507425865
+  },
+  "probe::3::The location of::meandiff": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.851263020833333
+  },
+  "probe::3::The location of::logreg": {
+    "layer": 3,
+    "class": "probe",
+    "causal_efficacy": 9.858802083333334
+  },
+  "probe::7::The location of::meandiff": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.502604166666666
+  },
+  "probe::7::The location of::logreg": {
+    "layer": 7,
+    "class": "probe",
+    "causal_efficacy": 8.596315104166667
+  },
+  "probe::19::The location of::meandiff": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.8864364115397136
+  },
+  "probe::19::The location of::logreg": {
+    "layer": 19,
+    "class": "probe",
+    "causal_efficacy": 3.966102803548177
+  },
+  "probe::23::The location of::meandiff": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 1.95962584177653
+  },
+  "probe::23::The location of::logreg": {
+    "layer": 23,
+    "class": "probe",
+    "causal_efficacy": 2.009268112182617
+  },
+  "probe::27::The location of::meandiff": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 1.0810053422053656
+  },
+  "probe::27::The location of::logreg": {
+    "layer": 27,
+    "class": "probe",
+    "causal_efficacy": 1.0817282327016196
+  },
+  "random::3::random::0": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.919580891927083
+  },
+  "random::3::random::1": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.3322135416666665
+  },
+  "random::3::random::2": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.823733723958333
+  },
+  "random::3::random::3": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.092731119791667
+  },
+  "random::3::random::4": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.922734375
+  },
+  "random::3::random::5": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.695074869791667
+  },
+  "random::3::random::6": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.791484375
+  },
+  "random::3::random::7": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.5015625
+  },
+  "random::3::random::8": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.097454427083333
+  },
+  "random::3::random::9": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.619339192708333
+  },
+  "random::3::random::10": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.428665364583333
+  },
+  "random::3::random::11": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.753751627604166
+  },
+  "random::3::random::12": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 8.100115559895833
+  },
+  "random::3::random::13": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.931549479166667
+  },
+  "random::3::random::14": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 5.831041666666667
+  },
+  "random::3::random::15": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.074593098958333
+  },
+  "random::3::random::16": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.023079427083333
+  },
+  "random::3::random::17": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.295159505208333
+  },
+  "random::3::random::18": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.8803515625
+  },
+  "random::3::random::19": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.951749674479166
+  },
+  "random::3::random::20": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.843102213541667
+  },
+  "random::3::random::21": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.798958333333333
+  },
+  "random::3::random::22": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.838059895833333
+  },
+  "random::3::random::23": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.7244921875
+  },
+  "random::3::random::24": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.329995524088542
+  },
+  "random::3::random::25": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.647490234375
+  },
+  "random::3::random::26": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 8.278587239583333
+  },
+  "random::3::random::27": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.5793684895833335
+  },
+  "random::3::random::28": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.265852864583334
+  },
+  "random::3::random::29": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.992344563802083
+  },
+  "random::3::random::30": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.950794270833334
+  },
+  "random::3::random::31": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.164697265625
+  },
+  "random::3::random::32": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.063111979166667
+  },
+  "random::3::random::33": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.286484375
+  },
+  "random::3::random::34": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 8.04033203125
+  },
+  "random::3::random::35": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.300887044270834
+  },
+  "random::3::random::36": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.143795572916667
+  },
+  "random::3::random::37": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 6.885729166666667
+  },
+  "random::3::random::38": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.437451171875
+  },
+  "random::3::random::39": {
+    "layer": 3,
+    "class": "random",
+    "causal_efficacy": 7.326692708333334
+  },
+  "random_in_span::3::random_in_span::0": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.2413671875
+  },
+  "random_in_span::3::random_in_span::1": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.788642578125
+  },
+  "random_in_span::3::random_in_span::2": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.564166666666667
+  },
+  "random_in_span::3::random_in_span::3": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.507897135416666
+  },
+  "random_in_span::3::random_in_span::4": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.50708984375
+  },
+  "random_in_span::3::random_in_span::5": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 9.1083984375
+  },
+  "random_in_span::3::random_in_span::6": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.02015625
+  },
+  "random_in_span::3::random_in_span::7": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.82298828125
+  },
+  "random_in_span::3::random_in_span::8": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.760247395833333
+  },
+  "random_in_span::3::random_in_span::9": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.625846354166667
+  },
+  "random_in_span::3::random_in_span::10": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.666484375
+  },
+  "random_in_span::3::random_in_span::11": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.11970703125
+  },
+  "random_in_span::3::random_in_span::12": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.86353515625
+  },
+  "random_in_span::3::random_in_span::13": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.60478515625
+  },
+  "random_in_span::3::random_in_span::14": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.601822916666666
+  },
+  "random_in_span::3::random_in_span::15": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.905735677083333
+  },
+  "random_in_span::3::random_in_span::16": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.057682291666667
+  },
+  "random_in_span::3::random_in_span::17": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 6.444130859375
+  },
+  "random_in_span::3::random_in_span::18": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.386578776041667
+  },
+  "random_in_span::3::random_in_span::19": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.30671875
+  },
+  "random_in_span::3::random_in_span::20": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.19166015625
+  },
+  "random_in_span::3::random_in_span::21": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.489401041666667
+  },
+  "random_in_span::3::random_in_span::22": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 6.606940104166667
+  },
+  "random_in_span::3::random_in_span::23": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.083385416666666
+  },
+  "random_in_span::3::random_in_span::24": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.601822916666666
+  },
+  "random_in_span::3::random_in_span::25": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 9.402018229166666
+  },
+  "random_in_span::3::random_in_span::26": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.399934895833333
+  },
+  "random_in_span::3::random_in_span::27": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.098333333333334
+  },
+  "random_in_span::3::random_in_span::28": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.4338671875
+  },
+  "random_in_span::3::random_in_span::29": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.813802083333333
+  },
+  "random_in_span::3::random_in_span::30": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.434505208333333
+  },
+  "random_in_span::3::random_in_span::31": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 10.0242578125
+  },
+  "random_in_span::3::random_in_span::32": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.900911458333333
+  },
+  "random_in_span::3::random_in_span::33": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.510651041666667
+  },
+  "random_in_span::3::random_in_span::34": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.429114583333334
+  },
+  "random_in_span::3::random_in_span::35": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.3178515625
+  },
+  "random_in_span::3::random_in_span::36": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.0105208333333335
+  },
+  "random_in_span::3::random_in_span::37": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.7878515625
+  },
+  "random_in_span::3::random_in_span::38": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 7.003961588541666
+  },
+  "random_in_span::3::random_in_span::39": {
+    "layer": 3,
+    "class": "random_in_span",
+    "causal_efficacy": 8.410286458333333
+  },
+  "random::7::random::0": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.1349736658732095
+  },
+  "random::7::random::1": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.301190821329753
+  },
+  "random::7::random::2": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.604979858398438
+  },
+  "random::7::random::3": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.448881123860677
+  },
+  "random::7::random::4": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.820662638346354
+  },
+  "random::7::random::5": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.736560821533203
+  },
+  "random::7::random::6": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.80169428507487
+  },
+  "random::7::random::7": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.922565409342448
+  },
+  "random::7::random::8": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.936069691975911
+  },
+  "random::7::random::9": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.323467915852865
+  },
+  "random::7::random::10": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.721226787567138
+  },
+  "random::7::random::11": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.406511815388997
+  },
+  "random::7::random::12": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.604417470296224
+  },
+  "random::7::random::13": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.254159676233927
+  },
+  "random::7::random::14": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.577039794921875
+  },
+  "random::7::random::15": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.202023213704427
+  },
+  "random::7::random::16": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.987016728719076
+  },
+  "random::7::random::17": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.278497212727864
+  },
+  "random::7::random::18": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.325517400105794
+  },
+  "random::7::random::19": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.16310312906901
+  },
+  "random::7::random::20": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.285649185180664
+  },
+  "random::7::random::21": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.77739980061849
+  },
+  "random::7::random::22": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.310289306640625
+  },
+  "random::7::random::23": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.264478810628256
+  },
+  "random::7::random::24": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.91077023824056
+  },
+  "random::7::random::25": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.855919189453125
+  },
+  "random::7::random::26": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.475040305455526
+  },
+  "random::7::random::27": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.605455729166667
+  },
+  "random::7::random::28": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.095846710205078
+  },
+  "random::7::random::29": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.643788324991862
+  },
+  "random::7::random::30": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.124658864339192
+  },
+  "random::7::random::31": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.302649307250976
+  },
+  "random::7::random::32": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.4101121012369795
+  },
+  "random::7::random::33": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.805579636891683
+  },
+  "random::7::random::34": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 3.5318336995442707
+  },
+  "random::7::random::35": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 6.4037162272135415
+  },
+  "random::7::random::36": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.018104553222656
+  },
+  "random::7::random::37": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.442400054931641
+  },
+  "random::7::random::38": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 5.340371449788411
+  },
+  "random::7::random::39": {
+    "layer": 7,
+    "class": "random",
+    "causal_efficacy": 4.848634643554687
+  },
+  "random_in_span::7::random_in_span::0": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.709619344075521
+  },
+  "random_in_span::7::random_in_span::1": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.275178019205729
+  },
+  "random_in_span::7::random_in_span::2": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.644964396158854
+  },
+  "random_in_span::7::random_in_span::3": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 4.901132621765137
+  },
+  "random_in_span::7::random_in_span::4": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.35159423828125
+  },
+  "random_in_span::7::random_in_span::5": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.759906260172526
+  },
+  "random_in_span::7::random_in_span::6": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.531235046386719
+  },
+  "random_in_span::7::random_in_span::7": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.498308919270833
+  },
+  "random_in_span::7::random_in_span::8": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.256137847900391
+  },
+  "random_in_span::7::random_in_span::9": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.6053865559895835
+  },
+  "random_in_span::7::random_in_span::10": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.442747395833333
+  },
+  "random_in_span::7::random_in_span::11": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.774020182291666
+  },
+  "random_in_span::7::random_in_span::12": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.613183390299479
+  },
+  "random_in_span::7::random_in_span::13": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.14716552734375
+  },
+  "random_in_span::7::random_in_span::14": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 7.0623388671875
+  },
+  "random_in_span::7::random_in_span::15": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.464478149414062
+  },
+  "random_in_span::7::random_in_span::16": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.8273876953125
+  },
+  "random_in_span::7::random_in_span::17": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.136555582682291
+  },
+  "random_in_span::7::random_in_span::18": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 4.954003092447917
+  },
+  "random_in_span::7::random_in_span::19": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.929803873697916
+  },
+  "random_in_span::7::random_in_span::20": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.565226236979167
+  },
+  "random_in_span::7::random_in_span::21": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.171328938802083
+  },
+  "random_in_span::7::random_in_span::22": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.7697847493489585
+  },
+  "random_in_span::7::random_in_span::23": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.9578849283854165
+  },
+  "random_in_span::7::random_in_span::24": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.555420837402344
+  },
+  "random_in_span::7::random_in_span::25": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.528860473632813
+  },
+  "random_in_span::7::random_in_span::26": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.905166931152344
+  },
+  "random_in_span::7::random_in_span::27": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.9120475260416665
+  },
+  "random_in_span::7::random_in_span::28": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.323821411132813
+  },
+  "random_in_span::7::random_in_span::29": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.688238118489584
+  },
+  "random_in_span::7::random_in_span::30": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.517353515625
+  },
+  "random_in_span::7::random_in_span::31": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 7.402532552083334
+  },
+  "random_in_span::7::random_in_span::32": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.846651204427084
+  },
+  "random_in_span::7::random_in_span::33": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.657576090494792
+  },
+  "random_in_span::7::random_in_span::34": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.0991259765625
+  },
+  "random_in_span::7::random_in_span::35": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.668992691040039
+  },
+  "random_in_span::7::random_in_span::36": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 6.57574940999349
+  },
+  "random_in_span::7::random_in_span::37": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.959368998209635
+  },
+  "random_in_span::7::random_in_span::38": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 5.265858154296875
+  },
+  "random_in_span::7::random_in_span::39": {
+    "layer": 7,
+    "class": "random_in_span",
+    "causal_efficacy": 7.449315999348959
+  },
+  "random::19::random::0": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3056200637916724
+  },
+  "random::19::random::1": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.363216808239619
+  },
+  "random::19::random::2": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.2595188167691231
+  },
+  "random::19::random::3": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3825492876768113
+  },
+  "random::19::random::4": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.351355554362138
+  },
+  "random::19::random::5": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.451169526576996
+  },
+  "random::19::random::6": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.1701020444681247
+  },
+  "random::19::random::7": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3207800655563673
+  },
+  "random::19::random::8": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3573502491911251
+  },
+  "random::19::random::9": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.314439525604248
+  },
+  "random::19::random::10": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.4935193656881651
+  },
+  "random::19::random::11": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3134375156462192
+  },
+  "random::19::random::12": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.2882798992594082
+  },
+  "random::19::random::13": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.147654491464297
+  },
+  "random::19::random::14": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.2925282497207324
+  },
+  "random::19::random::15": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3145371675491333
+  },
+  "random::19::random::16": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.290618789990743
+  },
+  "random::19::random::17": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.317841731806596
+  },
+  "random::19::random::18": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.6077068903048832
+  },
+  "random::19::random::19": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.4989177393416564
+  },
+  "random::19::random::20": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3981490194797517
+  },
+  "random::19::random::21": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.4138344567020733
+  },
+  "random::19::random::22": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.2396274801095326
+  },
+  "random::19::random::23": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.4437429730097453
+  },
+  "random::19::random::24": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3802624171972275
+  },
+  "random::19::random::25": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.2839086522658667
+  },
+  "random::19::random::26": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.450612320303917
+  },
+  "random::19::random::27": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3065790605545045
+  },
+  "random::19::random::28": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.2266832800706227
+  },
+  "random::19::random::29": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.4265989446640015
+  },
+  "random::19::random::30": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.1866636033852895
+  },
+  "random::19::random::31": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.2941167863706748
+  },
+  "random::19::random::32": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3834711305300396
+  },
+  "random::19::random::33": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3777264110992353
+  },
+  "random::19::random::34": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.1866859354575474
+  },
+  "random::19::random::35": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.199567216237386
+  },
+  "random::19::random::36": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3250847073396046
+  },
+  "random::19::random::37": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.282351433436076
+  },
+  "random::19::random::38": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.5020123851299285
+  },
+  "random::19::random::39": {
+    "layer": 19,
+    "class": "random",
+    "causal_efficacy": 1.3249751617511114
+  },
+  "random_in_span::19::random_in_span::0": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.3543481302261353
+  },
+  "random_in_span::19::random_in_span::1": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.8847105787197749
+  },
+  "random_in_span::19::random_in_span::2": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.33973175684611
+  },
+  "random_in_span::19::random_in_span::3": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 2.0135463572541874
+  },
+  "random_in_span::19::random_in_span::4": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.1959527564048766
+  },
+  "random_in_span::19::random_in_span::5": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.4292814862728118
+  },
+  "random_in_span::19::random_in_span::6": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.1274258913348119
+  },
+  "random_in_span::19::random_in_span::7": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.3103985031445822
+  },
+  "random_in_span::19::random_in_span::8": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.4466478220621746
+  },
+  "random_in_span::19::random_in_span::9": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.6093944271405538
+  },
+  "random_in_span::19::random_in_span::10": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.3786181831359863
+  },
+  "random_in_span::19::random_in_span::11": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.3624226888020834
+  },
+  "random_in_span::19::random_in_span::12": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.2634849575161935
+  },
+  "random_in_span::19::random_in_span::13": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.360796191294988
+  },
+  "random_in_span::19::random_in_span::14": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.5215301259358724
+  },
+  "random_in_span::19::random_in_span::15": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.541113359928131
+  },
+  "random_in_span::19::random_in_span::16": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.34392358481884
+  },
+  "random_in_span::19::random_in_span::17": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.3287233654658
+  },
+  "random_in_span::19::random_in_span::18": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.6042967859903972
+  },
+  "random_in_span::19::random_in_span::19": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.5570207282404105
+  },
+  "random_in_span::19::random_in_span::20": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.260605628291766
+  },
+  "random_in_span::19::random_in_span::21": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.4044757970174153
+  },
+  "random_in_span::19::random_in_span::22": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.449606166680654
+  },
+  "random_in_span::19::random_in_span::23": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.4214624386032422
+  },
+  "random_in_span::19::random_in_span::24": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.5323678286870321
+  },
+  "random_in_span::19::random_in_span::25": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.44734810034434
+  },
+  "random_in_span::19::random_in_span::26": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.372273287276427
+  },
+  "random_in_span::19::random_in_span::27": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.3235485064983368
+  },
+  "random_in_span::19::random_in_span::28": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.7416808609167735
+  },
+  "random_in_span::19::random_in_span::29": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.9380066670725744
+  },
+  "random_in_span::19::random_in_span::30": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.5732748478651046
+  },
+  "random_in_span::19::random_in_span::31": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.7093324820200602
+  },
+  "random_in_span::19::random_in_span::32": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.4190258471171062
+  },
+  "random_in_span::19::random_in_span::33": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.4748398399353027
+  },
+  "random_in_span::19::random_in_span::34": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.4165987728039424
+  },
+  "random_in_span::19::random_in_span::35": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.3407468108336131
+  },
+  "random_in_span::19::random_in_span::36": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.5683187024792036
+  },
+  "random_in_span::19::random_in_span::37": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.2663874530792236
+  },
+  "random_in_span::19::random_in_span::38": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.336121565103531
+  },
+  "random_in_span::19::random_in_span::39": {
+    "layer": 19,
+    "class": "random_in_span",
+    "causal_efficacy": 1.3912855517864227
+  },
+  "random::23::random::0": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6955800924698512
+  },
+  "random::23::random::1": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.689248495499293
+  },
+  "random::23::random::2": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6509144958853722
+  },
+  "random::23::random::3": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7020196740329265
+  },
+  "random::23::random::4": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6949847521384557
+  },
+  "random::23::random::5": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.8129444397489229
+  },
+  "random::23::random::6": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6197917578617732
+  },
+  "random::23::random::7": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6475448799133301
+  },
+  "random::23::random::8": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6758586513002713
+  },
+  "random::23::random::9": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7079747762531042
+  },
+  "random::23::random::10": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7294644314050674
+  },
+  "random::23::random::11": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6911498419443767
+  },
+  "random::23::random::12": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6732960978150367
+  },
+  "random::23::random::13": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6739276511470477
+  },
+  "random::23::random::14": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6555383063356082
+  },
+  "random::23::random::15": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.750716431538264
+  },
+  "random::23::random::16": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.741122497121493
+  },
+  "random::23::random::17": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7021151669820149
+  },
+  "random::23::random::18": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6945006477708617
+  },
+  "random::23::random::19": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7011715205510457
+  },
+  "random::23::random::20": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7123444998264312
+  },
+  "random::23::random::21": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7914864806334178
+  },
+  "random::23::random::22": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6813417033354441
+  },
+  "random::23::random::23": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.745720386505127
+  },
+  "random::23::random::24": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7236184438069662
+  },
+  "random::23::random::25": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6501025548328956
+  },
+  "random::23::random::26": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6215378983815512
+  },
+  "random::23::random::27": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6660085519154867
+  },
+  "random::23::random::28": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.8072389515240987
+  },
+  "random::23::random::29": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7006840054194132
+  },
+  "random::23::random::30": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7485321565469106
+  },
+  "random::23::random::31": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7414829457302888
+  },
+  "random::23::random::32": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6608296113212904
+  },
+  "random::23::random::33": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6962162720163664
+  },
+  "random::23::random::34": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6374381005764007
+  },
+  "random::23::random::35": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6917416914304098
+  },
+  "random::23::random::36": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7181720320383708
+  },
+  "random::23::random::37": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.7459140237172445
+  },
+  "random::23::random::38": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6422327200571696
+  },
+  "random::23::random::39": {
+    "layer": 23,
+    "class": "random",
+    "causal_efficacy": 0.6942092208564281
+  },
+  "random_in_span::23::random_in_span::0": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7008189887801806
+  },
+  "random_in_span::23::random_in_span::1": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.702034271756808
+  },
+  "random_in_span::23::random_in_span::2": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6893513876696428
+  },
+  "random_in_span::23::random_in_span::3": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.632371798157692
+  },
+  "random_in_span::23::random_in_span::4": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7041212332248687
+  },
+  "random_in_span::23::random_in_span::5": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7003294193744659
+  },
+  "random_in_span::23::random_in_span::6": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.9400911324222883
+  },
+  "random_in_span::23::random_in_span::7": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6926622009277343
+  },
+  "random_in_span::23::random_in_span::8": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6823353438576063
+  },
+  "random_in_span::23::random_in_span::9": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7528809269269308
+  },
+  "random_in_span::23::random_in_span::10": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6678839238484701
+  },
+  "random_in_span::23::random_in_span::11": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.8059288501739502
+  },
+  "random_in_span::23::random_in_span::12": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7011381363868714
+  },
+  "random_in_span::23::random_in_span::13": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.9145813657840093
+  },
+  "random_in_span::23::random_in_span::14": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6794246073563893
+  },
+  "random_in_span::23::random_in_span::15": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.8703484292204181
+  },
+  "random_in_span::23::random_in_span::16": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.723134406109651
+  },
+  "random_in_span::23::random_in_span::17": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7212034959097703
+  },
+  "random_in_span::23::random_in_span::18": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.8065474599599838
+  },
+  "random_in_span::23::random_in_span::19": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6900699895620346
+  },
+  "random_in_span::23::random_in_span::20": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6906799425681432
+  },
+  "random_in_span::23::random_in_span::21": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7567181392510732
+  },
+  "random_in_span::23::random_in_span::22": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7995265833536784
+  },
+  "random_in_span::23::random_in_span::23": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6853877703348795
+  },
+  "random_in_span::23::random_in_span::24": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7604522580901781
+  },
+  "random_in_span::23::random_in_span::25": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.8485343714555105
+  },
+  "random_in_span::23::random_in_span::26": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.636726283232371
+  },
+  "random_in_span::23::random_in_span::27": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6626665695508321
+  },
+  "random_in_span::23::random_in_span::28": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6837017073233922
+  },
+  "random_in_span::23::random_in_span::29": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.700084905611972
+  },
+  "random_in_span::23::random_in_span::30": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7465584109723568
+  },
+  "random_in_span::23::random_in_span::31": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6972227521737416
+  },
+  "random_in_span::23::random_in_span::32": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7087225862344106
+  },
+  "random_in_span::23::random_in_span::33": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 1.0040768321355185
+  },
+  "random_in_span::23::random_in_span::34": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6326961167653402
+  },
+  "random_in_span::23::random_in_span::35": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.6704443135857582
+  },
+  "random_in_span::23::random_in_span::36": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7507781253258388
+  },
+  "random_in_span::23::random_in_span::37": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7410040632883708
+  },
+  "random_in_span::23::random_in_span::38": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.8353809660673142
+  },
+  "random_in_span::23::random_in_span::39": {
+    "layer": 23,
+    "class": "random_in_span",
+    "causal_efficacy": 0.7635287194947402
+  },
+  "random::27::random::0": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3101615473131339
+  },
+  "random::27::random::1": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.28458798135320346
+  },
+  "random::27::random::2": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2928519264856974
+  },
+  "random::27::random::3": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.30415091713269554
+  },
+  "random::27::random::4": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.32745573490858076
+  },
+  "random::27::random::5": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.30389534453550976
+  },
+  "random::27::random::6": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2962186113993327
+  },
+  "random::27::random::7": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.32230846712986627
+  },
+  "random::27::random::8": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3009278277059396
+  },
+  "random::27::random::9": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3052878278493881
+  },
+  "random::27::random::10": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.29328202466169995
+  },
+  "random::27::random::11": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2947562019030253
+  },
+  "random::27::random::12": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3132526393731435
+  },
+  "random::27::random::13": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.326237010161082
+  },
+  "random::27::random::14": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3085618085165818
+  },
+  "random::27::random::15": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2830216576904058
+  },
+  "random::27::random::16": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.31171279231707255
+  },
+  "random::27::random::17": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2968525976873934
+  },
+  "random::27::random::18": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2704846286525329
+  },
+  "random::27::random::19": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3179499324162801
+  },
+  "random::27::random::20": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3106011617432038
+  },
+  "random::27::random::21": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2736396865049998
+  },
+  "random::27::random::22": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3121849317351977
+  },
+  "random::27::random::23": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.30134215010950965
+  },
+  "random::27::random::24": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.300244357585907
+  },
+  "random::27::random::25": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.28556258673469226
+  },
+  "random::27::random::26": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.30004569282134375
+  },
+  "random::27::random::27": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.30701671063899993
+  },
+  "random::27::random::28": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.30355756878852846
+  },
+  "random::27::random::29": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3068723466992378
+  },
+  "random::27::random::30": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.28436608786384265
+  },
+  "random::27::random::31": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3194406207402547
+  },
+  "random::27::random::32": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3181346637010574
+  },
+  "random::27::random::33": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2729151413341363
+  },
+  "random::27::random::34": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.28026518762111663
+  },
+  "random::27::random::35": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.36394051966567836
+  },
+  "random::27::random::36": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3196712064743042
+  },
+  "random::27::random::37": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.2955545940001806
+  },
+  "random::27::random::38": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.3064976052691539
+  },
+  "random::27::random::39": {
+    "layer": 27,
+    "class": "random",
+    "causal_efficacy": 0.31054218689600627
+  },
+  "random_in_span::27::random_in_span::0": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.32650358935197193
+  },
+  "random_in_span::27::random_in_span::1": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3362030879656474
+  },
+  "random_in_span::27::random_in_span::2": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3569979178905487
+  },
+  "random_in_span::27::random_in_span::3": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.30075659761826196
+  },
+  "random_in_span::27::random_in_span::4": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3015062876542409
+  },
+  "random_in_span::27::random_in_span::5": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.27193691320717334
+  },
+  "random_in_span::27::random_in_span::6": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3150377464294434
+  },
+  "random_in_span::27::random_in_span::7": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.2842005612452825
+  },
+  "random_in_span::27::random_in_span::8": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.32125774095455806
+  },
+  "random_in_span::27::random_in_span::9": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.29598133467137816
+  },
+  "random_in_span::27::random_in_span::10": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.2886169282005479
+  },
+  "random_in_span::27::random_in_span::11": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.28398414825399715
+  },
+  "random_in_span::27::random_in_span::12": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3120410636564096
+  },
+  "random_in_span::27::random_in_span::13": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.2807707059880098
+  },
+  "random_in_span::27::random_in_span::14": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3448656345407168
+  },
+  "random_in_span::27::random_in_span::15": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.35291819609701636
+  },
+  "random_in_span::27::random_in_span::16": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.28710466146469116
+  },
+  "random_in_span::27::random_in_span::17": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.35681645075480145
+  },
+  "random_in_span::27::random_in_span::18": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.31383580106000103
+  },
+  "random_in_span::27::random_in_span::19": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.34329830328623456
+  },
+  "random_in_span::27::random_in_span::20": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3297483640536666
+  },
+  "random_in_span::27::random_in_span::21": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3306309618552526
+  },
+  "random_in_span::27::random_in_span::22": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.31978771068155765
+  },
+  "random_in_span::27::random_in_span::23": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.33015194336573284
+  },
+  "random_in_span::27::random_in_span::24": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.2863081109523773
+  },
+  "random_in_span::27::random_in_span::25": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.34771877149740854
+  },
+  "random_in_span::27::random_in_span::26": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.33423013528188067
+  },
+  "random_in_span::27::random_in_span::27": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3438300077120463
+  },
+  "random_in_span::27::random_in_span::28": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.2920226338505745
+  },
+  "random_in_span::27::random_in_span::29": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.33950496673583985
+  },
+  "random_in_span::27::random_in_span::30": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.2804407397905985
+  },
+  "random_in_span::27::random_in_span::31": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3445490026473999
+  },
+  "random_in_span::27::random_in_span::32": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3253130029141903
+  },
+  "random_in_span::27::random_in_span::33": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.3384625720977783
+  },
+  "random_in_span::27::random_in_span::34": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.2887380607922872
+  },
+  "random_in_span::27::random_in_span::35": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.308744737803936
+  },
+  "random_in_span::27::random_in_span::36": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.34540730714797974
+  },
+  "random_in_span::27::random_in_span::37": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.33679263591766356
+  },
+  "random_in_span::27::random_in_span::38": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.32326012442509333
+  },
+  "random_in_span::27::random_in_span::39": {
+    "layer": 27,
+    "class": "random_in_span",
+    "causal_efficacy": 0.2724066542585691
+  }
+}

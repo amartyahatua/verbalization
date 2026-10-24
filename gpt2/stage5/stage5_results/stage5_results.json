@@ -1,0 +1,2699 @@
+{
+  "unseen_directions": [
+    {
+      "pair": [
+        "France",
+        "Italy"
+      ],
+      "layer": 2,
+      "alpha": 8.0,
+      "target_label": "France",
+      "match_rate": 0.3333333333333333,
+      "reports": [
+        "France",
+        "Paris",
+        "French"
+      ]
+    },
+    {
+      "pair": [
+        "France",
+        "Italy"
+      ],
+      "layer": 2,
+      "alpha": -8.0,
+      "target_label": "Italy",
+      "match_rate": 0.0,
+      "reports": [
+        "Italian",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "France",
+        "Italy"
+      ],
+      "layer": 4,
+      "alpha": 8.0,
+      "target_label": "France",
+      "match_rate": 0.6666666666666666,
+      "reports": [
+        "French",
+        "France",
+        "France"
+      ]
+    },
+    {
+      "pair": [
+        "France",
+        "Italy"
+      ],
+      "layer": 4,
+      "alpha": -8.0,
+      "target_label": "Italy",
+      "match_rate": 0.3333333333333333,
+      "reports": [
+        "Italian",
+        "Rome",
+        "Italy"
+      ]
+    },
+    {
+      "pair": [
+        "France",
+        "Italy"
+      ],
+      "layer": 6,
+      "alpha": 8.0,
+      "target_label": "France",
+      "match_rate": 0.6666666666666666,
+      "reports": [
+        "Paris",
+        "France",
+        "France"
+      ]
+    },
+    {
+      "pair": [
+        "France",
+        "Italy"
+      ],
+      "layer": 6,
+      "alpha": -8.0,
+      "target_label": "Italy",
+      "match_rate": 0.6666666666666666,
+      "reports": [
+        "Italy",
+        "Rome",
+        "Italy"
+      ]
+    },
+    {
+      "pair": [
+        "France",
+        "Italy"
+      ],
+      "layer": 8,
+      "alpha": 8.0,
+      "target_label": "France",
+      "match_rate": 0.3333333333333333,
+      "reports": [
+        "Paris",
+        "Paris",
+        "France"
+      ]
+    },
+    {
+      "pair": [
+        "France",
+        "Italy"
+      ],
+      "layer": 8,
+      "alpha": -8.0,
+      "target_label": "Italy",
+      "match_rate": 0.3333333333333333,
+      "reports": [
+        "Rome",
+        "Italy",
+        "Rome"
+      ]
+    }
+  ],
+  "unseen_positions": [
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 10,
+      "alpha": 8.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 10,
+      "alpha": -8.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 10,
+      "alpha": 8.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 10,
+      "alpha": -8.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 10,
+      "alpha": 8.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 10,
+      "alpha": -8.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    }
+  ],
+  "unseen_coefficients": [
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": 4.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": -4.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": 4.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": -4.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": 4.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": -4.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": 4.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": -4.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 4.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -4.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 4.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -4.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 4.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -4.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 4.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -4.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 4.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -4.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 4.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -4.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 4.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -4.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 4.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -4.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": 6.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": -6.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": 6.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": -6.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": 6.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": -6.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": 6.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": -6.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 6.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -6.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 6.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -6.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 6.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -6.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 6.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -6.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 6.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -6.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 6.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -6.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 6.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -6.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 6.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -6.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": 10.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": -10.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": 10.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": -10.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": 10.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": -10.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": 10.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": -10.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 10.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -10.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 10.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -10.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 10.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -10.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 10.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -10.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 10.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -10.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 10.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -10.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 10.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -10.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 10.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -10.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": 12.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": -12.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": 12.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": -12.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": 12.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": -12.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": 12.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": -12.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 12.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -12.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 12.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -12.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 12.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -12.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 12.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -12.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 12.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -12.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 12.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -12.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 12.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -12.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 12.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -12.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": 16.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": -16.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": 16.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": -16.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": 16.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": -16.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": 16.0,
+      "target_label": "Paris",
+      "match_rate": 1.0,
+      "reports": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ]
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": -16.0,
+      "target_label": "Rome",
+      "match_rate": 1.0,
+      "reports": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 16.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -16.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 16.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -16.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 16.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -16.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 16.0,
+      "target_label": "dog",
+      "match_rate": 1.0,
+      "reports": [
+        "dog",
+        "dog",
+        "dog"
+      ]
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -16.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 16.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": -16.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 16.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": -16.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 16.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": -16.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 16.0,
+      "target_label": "sad",
+      "match_rate": 1.0,
+      "reports": [
+        "sad",
+        "sad",
+        "sad"
+      ]
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": -16.0,
+      "target_label": "happy",
+      "match_rate": 1.0,
+      "reports": [
+        "happy",
+        "happy",
+        "happy"
+      ]
+    }
+  ],
+  "decorrelated": [
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ],
+      "reports_dirY_inputX": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ],
+      "reports_dirY_inputX": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ],
+      "reports_dirY_inputX": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "Rome",
+        "Rome",
+        "Rome"
+      ],
+      "reports_dirY_inputX": [
+        "Paris",
+        "Paris",
+        "Paris"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "happy",
+        "happy",
+        "happy"
+      ],
+      "reports_dirY_inputX": [
+        "dog",
+        "dog",
+        "dog"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "happy",
+        "happy",
+        "happy"
+      ],
+      "reports_dirY_inputX": [
+        "dog",
+        "dog",
+        "dog"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "happy",
+        "happy",
+        "happy"
+      ],
+      "reports_dirY_inputX": [
+        "dog",
+        "dog",
+        "dog"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "happy",
+        "happy",
+        "happy"
+      ],
+      "reports_dirY_inputX": [
+        "dog",
+        "dog",
+        "dog"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 2,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "happy",
+        "happy",
+        "happy"
+      ],
+      "reports_dirY_inputX": [
+        "sad",
+        "sad",
+        "sad"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 4,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "happy",
+        "happy",
+        "happy"
+      ],
+      "reports_dirY_inputX": [
+        "sad",
+        "sad",
+        "sad"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 6,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "happy",
+        "happy",
+        "happy"
+      ],
+      "reports_dirY_inputX": [
+        "sad",
+        "sad",
+        "sad"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    },
+    {
+      "pair": [
+        "sad",
+        "happy"
+      ],
+      "layer": 8,
+      "alpha": 8.0,
+      "reports_dirX_inputY": [
+        "happy",
+        "happy",
+        "happy"
+      ],
+      "reports_dirY_inputX": [
+        "sad",
+        "sad",
+        "sad"
+      ],
+      "dfi_cell1_dirX_inputY": -1.0,
+      "dfi_cell2_dirY_inputX": -1.0,
+      "dfi_overall": -1.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 1.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 1.0
+    }
+  ],
+  "mechanism_check": [
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 2,
+      "jacobian_alignment": {
+        "before_training": 0.008847154676914215,
+        "after_training": 3.756947464239602e-08,
+        "delta": -0.008847117107439573
+      },
+      "ablation": {
+        "x_concept": "Paris",
+        "layer": 2,
+        "alpha": 8.0,
+        "baseline": {
+          "match_rate": 1.0,
+          "reports": [
+            "Paris",
+            "Paris",
+            "Paris"
+          ]
+        },
+        "ablate_direction": {
+          "match_rate": 1.0,
+          "reports": [
+            "Paris",
+            "Paris",
+            "Paris"
+          ]
+        },
+        "ablate_input": {
+          "match_rate": 0.0,
+          "reports": [
+            "happy",
+            "dog",
+            "dog"
+          ]
+        },
+        "direction_necessary": false,
+        "input_necessary": true
+      }
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 4,
+      "jacobian_alignment": {
+        "before_training": 0.025348789989948273,
+        "after_training": 5.534039360099996e-08,
+        "delta": -0.02534873464955467
+      },
+      "ablation": {
+        "x_concept": "Paris",
+        "layer": 4,
+        "alpha": 8.0,
+        "baseline": {
+          "match_rate": 1.0,
+          "reports": [
+            "Paris",
+            "Paris",
+            "Paris"
+          ]
+        },
+        "ablate_direction": {
+          "match_rate": 1.0,
+          "reports": [
+            "Paris",
+            "Paris",
+            "Paris"
+          ]
+        },
+        "ablate_input": {
+          "match_rate": 0.0,
+          "reports": [
+            "happy",
+            "dog",
+            "dog"
+          ]
+        },
+        "direction_necessary": false,
+        "input_necessary": true
+      }
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 6,
+      "jacobian_alignment": {
+        "before_training": 0.037538740783929825,
+        "after_training": 4.35815152854957e-08,
+        "delta": -0.03753869720241454
+      },
+      "ablation": {
+        "x_concept": "Paris",
+        "layer": 6,
+        "alpha": 8.0,
+        "baseline": {
+          "match_rate": 1.0,
+          "reports": [
+            "Paris",
+            "Paris",
+            "Paris"
+          ]
+        },
+        "ablate_direction": {
+          "match_rate": 1.0,
+          "reports": [
+            "Paris",
+            "Paris",
+            "Paris"
+          ]
+        },
+        "ablate_input": {
+          "match_rate": 0.0,
+          "reports": [
+            "happy",
+            "dog",
+            "dog"
+          ]
+        },
+        "direction_necessary": false,
+        "input_necessary": true
+      }
+    },
+    {
+      "pair": [
+        "Paris",
+        "Rome"
+      ],
+      "layer": 8,
+      "jacobian_alignment": {
+        "before_training": 0.07054059207439423,
+        "after_training": 5.36628803615713e-08,
+        "delta": -0.07054053841151386
+      },
+      "ablation": {
+        "x_concept": "Paris",
+        "layer": 8,
+        "alpha": 8.0,
+        "baseline": {
+          "match_rate": 1.0,
+          "reports": [
+            "Paris",
+            "Paris",
+            "Paris"
+          ]
+        },
+        "ablate_direction": {
+          "match_rate": 1.0,
+          "reports": [
+            "Paris",
+            "Paris",
+            "Paris"
+          ]
+        },
+        "ablate_input": {
+          "match_rate": 0.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "direction_necessary": false,
+        "input_necessary": true
+      }
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 2,
+      "jacobian_alignment": {
+        "before_training": -0.004639293532818556,
+        "after_training": 4.5795599135090015e-07,
+        "delta": 0.004639751488809907
+      },
+      "ablation": {
+        "x_concept": "dog",
+        "layer": 2,
+        "alpha": 8.0,
+        "baseline": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "ablate_direction": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "ablate_input": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "direction_necessary": false,
+        "input_necessary": false
+      }
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 4,
+      "jacobian_alignment": {
+        "before_training": 0.018477313220500946,
+        "after_training": 6.437875867959519e-07,
+        "delta": -0.01847666943291415
+      },
+      "ablation": {
+        "x_concept": "dog",
+        "layer": 4,
+        "alpha": 8.0,
+        "baseline": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "ablate_direction": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "ablate_input": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "direction_necessary": false,
+        "input_necessary": false
+      }
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 6,
+      "jacobian_alignment": {
+        "before_training": 0.03565157204866409,
+        "after_training": 1.0712615221564192e-06,
+        "delta": -0.03565050078714194
+      },
+      "ablation": {
+        "x_concept": "dog",
+        "layer": 6,
+        "alpha": 8.0,
+        "baseline": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "ablate_direction": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "ablate_input": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "direction_necessary": false,
+        "input_necessary": false
+      }
+    },
+    {
+      "pair": [
+        "dog",
+        "happy"
+      ],
+      "layer": 8,
+      "jacobian_alignment": {
+        "before_training": 0.04002315178513527,
+        "after_training": 1.043993961502565e-06,
+        "delta": -0.04002210779117377
+      },
+      "ablation": {
+        "x_concept": "dog",
+        "layer": 8,
+        "alpha": 8.0,
+        "baseline": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "ablate_direction": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "ablate_input": {
+          "match_rate": 1.0,
+          "reports": [
+            "dog",
+            "dog",
+            "dog"
+          ]
+        },
+        "direction_necessary": false,
+        "input_necessary": false
+      }
+    }
+  ],
+  "split_used": {
+    "train_pairs": [
+      [
+        "Paris",
+        "Rome"
+      ],
+      [
+        "dog",
+        "happy"
+      ],
+      [
+        "sad",
+        "happy"
+      ]
+    ],
+    "held_out_pairs": [
+      [
+        "France",
+        "Italy"
+      ]
+    ],
+    "train_layers": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "held_out_layers": [
+      10
+    ],
+    "alpha": 8.0,
+    "elicitation_prompt": "Question: What concept is active in your thinking right now?\nAnswer:"
+  }
+}

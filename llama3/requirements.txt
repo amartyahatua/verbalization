@@ -1,0 +1,17 @@
+# NOTE: sae_lens requires Python >=3.10 (every published version does -- this
+# is a hard floor, not a version pin issue). If your env is on Python 3.8/3.9,
+# create a fresh Python 3.10+ env before installing these; installing sae_lens
+# will simply fail with "no matching distribution" otherwise.
+torch>=2.1
+transformers>=4.43
+peft>=0.11
+accelerate>=0.30
+sae_lens>=4.0
+datasets>=2.19
+scikit-learn>=1.3
+numpy>=1.24
+
+# tests (python -m pytest tests -q)
+pytest>=7
+
+git+https://github.com/anthropics/jacobian-lens

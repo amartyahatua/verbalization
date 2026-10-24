@@ -1,0 +1,2882 @@
+[
+  {
+    "epoch": 0,
+    "step": 0,
+    "loss": 6.227216720581055,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 0,
+    "step": 1,
+    "loss": 5.547179222106934,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 0,
+    "step": 2,
+    "loss": 1.0130974054336548,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 0,
+    "step": 3,
+    "loss": 0.12698034942150116,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 0,
+    "step": 4,
+    "loss": 0.03502095490694046,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 0,
+    "step": 5,
+    "loss": 0.007322392892092466,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 0,
+    "step": 6,
+    "loss": 0.0005161516019143164,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 0,
+    "step": 7,
+    "loss": 4.380767495604232e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 0,
+    "step": 8,
+    "loss": 3.7526302337646484,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 0,
+    "step": 9,
+    "loss": 2.0286355018615723,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 0,
+    "step": 10,
+    "loss": 0.2046908736228943,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 0,
+    "step": 11,
+    "loss": 1.1769317388534546,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 0,
+    "step": 12,
+    "loss": 0.031276170164346695,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 0,
+    "step": 13,
+    "loss": 0.03088553249835968,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 0,
+    "step": 14,
+    "loss": 0.03239085525274277,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 0,
+    "step": 15,
+    "loss": 0.015490972436964512,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 0,
+    "step": 16,
+    "loss": 2.819272994995117,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 0,
+    "step": 17,
+    "loss": 0.0034434860572218895,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 0,
+    "step": 18,
+    "loss": 0.007757865823805332,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 0,
+    "step": 19,
+    "loss": 0.0014708531089127064,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 0,
+    "step": 20,
+    "loss": 0.008219169452786446,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 0,
+    "step": 21,
+    "loss": 0.002005398040637374,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 0,
+    "step": 22,
+    "loss": 0.004894754849374294,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 0,
+    "step": 23,
+    "loss": 0.002116719726473093,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 1,
+    "step": 24,
+    "loss": 0.000836874998640269,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 1,
+    "step": 25,
+    "loss": 1.1192095279693604,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 1,
+    "step": 26,
+    "loss": 0.00015281460946425796,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 1,
+    "step": 27,
+    "loss": 10.450510025024414,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 1,
+    "step": 28,
+    "loss": 0.29260167479515076,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 1,
+    "step": 29,
+    "loss": 0.05834277719259262,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 1,
+    "step": 30,
+    "loss": 0.0005286201485432684,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 1,
+    "step": 31,
+    "loss": 0.47930267453193665,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 1,
+    "step": 32,
+    "loss": 1.1726895570755005,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 1,
+    "step": 33,
+    "loss": 0.07169144600629807,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 1,
+    "step": 34,
+    "loss": 0.029715120792388916,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 1,
+    "step": 35,
+    "loss": 0.043792035430669785,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 1,
+    "step": 36,
+    "loss": 0.025533879175782204,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 1,
+    "step": 37,
+    "loss": 0.022429611533880234,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 1,
+    "step": 38,
+    "loss": 0.036091770976781845,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 1,
+    "step": 39,
+    "loss": 0.012266172096133232,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 1,
+    "step": 40,
+    "loss": 0.09099327772855759,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 1,
+    "step": 41,
+    "loss": 0.009610878303647041,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 1,
+    "step": 42,
+    "loss": 0.009516469202935696,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 1,
+    "step": 43,
+    "loss": 0.003963312599807978,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 1,
+    "step": 44,
+    "loss": 0.00367286941036582,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 1,
+    "step": 45,
+    "loss": 0.0023391838185489178,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 1,
+    "step": 46,
+    "loss": 0.0027447189204394817,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 1,
+    "step": 47,
+    "loss": 0.0022654051426798105,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 2,
+    "step": 48,
+    "loss": 1.8656008251127787e-05,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 2,
+    "step": 49,
+    "loss": 0.0005596762639470398,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 2,
+    "step": 50,
+    "loss": 1.800035170163028e-05,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 2,
+    "step": 51,
+    "loss": 0.0004797705914825201,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 2,
+    "step": 52,
+    "loss": 2.5212226319126785e-05,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 2,
+    "step": 53,
+    "loss": 0.0003436243277974427,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 2,
+    "step": 54,
+    "loss": 4.571490717353299e-05,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 2,
+    "step": 55,
+    "loss": 0.0005144853494130075,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 2,
+    "step": 56,
+    "loss": 0.014540632255375385,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 2,
+    "step": 57,
+    "loss": 0.0005272440030239522,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 2,
+    "step": 58,
+    "loss": 0.0031727589666843414,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 2,
+    "step": 59,
+    "loss": 0.0002974705130327493,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 2,
+    "step": 60,
+    "loss": 0.001563197816722095,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 2,
+    "step": 61,
+    "loss": 0.00022746760805603117,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 2,
+    "step": 62,
+    "loss": 0.0009328441228717566,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 2,
+    "step": 63,
+    "loss": 0.0001412473648088053,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 2,
+    "step": 64,
+    "loss": 0.007279872894287109,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 2,
+    "step": 65,
+    "loss": 0.00019803052418865263,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 2,
+    "step": 66,
+    "loss": 0.0001829605462262407,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 2,
+    "step": 67,
+    "loss": 0.00014082709094509482,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 2,
+    "step": 68,
+    "loss": 0.0001894481247290969,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 2,
+    "step": 69,
+    "loss": 0.00011103157885372639,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 2,
+    "step": 70,
+    "loss": 0.00028524649678729475,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 2,
+    "step": 71,
+    "loss": 0.00013045784726273268,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 3,
+    "step": 72,
+    "loss": 2.2649717266176594e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 3,
+    "step": 73,
+    "loss": 8.588303899159655e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 3,
+    "step": 74,
+    "loss": 1.9073454495810438e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 3,
+    "step": 75,
+    "loss": 0.00013552284508477896,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 3,
+    "step": 76,
+    "loss": 2.801411028485745e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 3,
+    "step": 77,
+    "loss": 0.0001137725412263535,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 3,
+    "step": 78,
+    "loss": 4.708746018877719e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 3,
+    "step": 79,
+    "loss": 8.278417226392776e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 3,
+    "step": 80,
+    "loss": 0.0001670448255026713,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 3,
+    "step": 81,
+    "loss": 8.069821342360228e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 3,
+    "step": 82,
+    "loss": 0.00010989917063852772,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 3,
+    "step": 83,
+    "loss": 6.913664401508868e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 3,
+    "step": 84,
+    "loss": 0.00014070708130020648,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 3,
+    "step": 85,
+    "loss": 6.669319554930553e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 3,
+    "step": 86,
+    "loss": 0.00013975387264508754,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 3,
+    "step": 87,
+    "loss": 4.863504727836698e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 3,
+    "step": 88,
+    "loss": 0.0007737845880910754,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 3,
+    "step": 89,
+    "loss": 9.476243576500565e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 3,
+    "step": 90,
+    "loss": 0.0006506380741484463,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 3,
+    "step": 91,
+    "loss": 5.811117807752453e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 3,
+    "step": 92,
+    "loss": 0.0004065172397531569,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 3,
+    "step": 93,
+    "loss": 6.144864164525643e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 3,
+    "step": 94,
+    "loss": 0.0005005476996302605,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 3,
+    "step": 95,
+    "loss": 5.3224135626805946e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 4,
+    "step": 96,
+    "loss": 1.4901138456480112e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 4,
+    "step": 97,
+    "loss": 5.382013114285655e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 4,
+    "step": 98,
+    "loss": 9.53673520598386e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 4,
+    "step": 99,
+    "loss": 9.047177445609123e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 4,
+    "step": 100,
+    "loss": 1.6093230215119547e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 4,
+    "step": 101,
+    "loss": 5.3939365898258984e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 4,
+    "step": 102,
+    "loss": 2.264971953991335e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 4,
+    "step": 103,
+    "loss": 4.786030694958754e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 4,
+    "step": 104,
+    "loss": 5.918414899497293e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 4,
+    "step": 105,
+    "loss": 4.482069562072866e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 4,
+    "step": 106,
+    "loss": 4.3688381992978975e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 4,
+    "step": 107,
+    "loss": 4.714506212621927e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 4,
+    "step": 108,
+    "loss": 4.1661984141683206e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 4,
+    "step": 109,
+    "loss": 4.201952469884418e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 4,
+    "step": 110,
+    "loss": 6.0316418966976926e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 4,
+    "step": 111,
+    "loss": 3.1827879865886644e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 4,
+    "step": 112,
+    "loss": 0.0002521832939237356,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 4,
+    "step": 113,
+    "loss": 6.252137973206118e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 4,
+    "step": 114,
+    "loss": 0.00021578188170678914,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 4,
+    "step": 115,
+    "loss": 4.565509152598679e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 4,
+    "step": 116,
+    "loss": 0.00013218563981354237,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 4,
+    "step": 117,
+    "loss": 3.4092707210220397e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 4,
+    "step": 118,
+    "loss": 0.00014803605154156685,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 4,
+    "step": 119,
+    "loss": 4.875423837802373e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 5,
+    "step": 120,
+    "loss": 1.072882469088654e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 5,
+    "step": 121,
+    "loss": 4.4284312025411054e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 5,
+    "step": 122,
+    "loss": 5.960461635368119e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 5,
+    "step": 123,
+    "loss": 5.4296935559250414e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 5,
+    "step": 124,
+    "loss": 1.1920916449525976e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 5,
+    "step": 125,
+    "loss": 3.993355858256109e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 5,
+    "step": 126,
+    "loss": 2.50338939622452e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 5,
+    "step": 127,
+    "loss": 3.8860769564053044e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 5,
+    "step": 128,
+    "loss": 4.0589264244772494e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 5,
+    "step": 129,
+    "loss": 4.023152723675594e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 5,
+    "step": 130,
+    "loss": 3.981438931077719e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 5,
+    "step": 131,
+    "loss": 3.5701916203834116e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 5,
+    "step": 132,
+    "loss": 3.8026380934752524e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 5,
+    "step": 133,
+    "loss": 4.368831287138164e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 5,
+    "step": 134,
+    "loss": 5.423742550192401e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 5,
+    "step": 135,
+    "loss": 3.0039849661989138e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 5,
+    "step": 136,
+    "loss": 8.206887287087739e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 5,
+    "step": 137,
+    "loss": 4.2794312321348116e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 5,
+    "step": 138,
+    "loss": 0.00012038690329063684,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 5,
+    "step": 139,
+    "loss": 3.957593071390875e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 5,
+    "step": 140,
+    "loss": 7.426187949022278e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 5,
+    "step": 141,
+    "loss": 3.1172268791124225e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 5,
+    "step": 142,
+    "loss": 5.834955663885921e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 5,
+    "step": 143,
+    "loss": 4.61914787592832e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 6,
+    "step": 144,
+    "loss": 8.940688758229953e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 6,
+    "step": 145,
+    "loss": 1.8298300346941687e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 6,
+    "step": 146,
+    "loss": 5.960461635368119e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 6,
+    "step": 147,
+    "loss": 4.30327418143861e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 6,
+    "step": 148,
+    "loss": 1.0132780516869389e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 6,
+    "step": 149,
+    "loss": 3.8205158489290625e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 6,
+    "step": 150,
+    "loss": 1.6093230215119547e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 6,
+    "step": 151,
+    "loss": 2.5808178179431707e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 6,
+    "step": 152,
+    "loss": 3.993365680798888e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 6,
+    "step": 153,
+    "loss": 3.379469853825867e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 6,
+    "step": 154,
+    "loss": 3.099350942648016e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 6,
+    "step": 155,
+    "loss": 2.819220935634803e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 6,
+    "step": 156,
+    "loss": 3.725156784639694e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 6,
+    "step": 157,
+    "loss": 3.176827885909006e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 6,
+    "step": 158,
+    "loss": 3.307957013021223e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 6,
+    "step": 159,
+    "loss": 2.2112842998467386e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 6,
+    "step": 160,
+    "loss": 7.75396401877515e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 6,
+    "step": 161,
+    "loss": 4.195992005406879e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 6,
+    "step": 162,
+    "loss": 7.849316170904785e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 6,
+    "step": 163,
+    "loss": 3.206628025509417e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 6,
+    "step": 164,
+    "loss": 4.4999487727181986e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 6,
+    "step": 165,
+    "loss": 2.521213718864601e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 6,
+    "step": 166,
+    "loss": 7.354674016823992e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 6,
+    "step": 167,
+    "loss": 3.6893925425829366e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 7,
+    "step": 168,
+    "loss": 6.55650637781946e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 7,
+    "step": 169,
+    "loss": 1.7821479559643194e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 7,
+    "step": 170,
+    "loss": 4.768369876728684e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 7,
+    "step": 171,
+    "loss": 2.425852471787948e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 7,
+    "step": 172,
+    "loss": 9.53673520598386e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 7,
+    "step": 173,
+    "loss": 2.4496934202034026e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 7,
+    "step": 174,
+    "loss": 1.4305097693068092e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 7,
+    "step": 175,
+    "loss": 2.5808178179431707e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 7,
+    "step": 176,
+    "loss": 3.969525278080255e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 7,
+    "step": 177,
+    "loss": 3.176827522111125e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 7,
+    "step": 178,
+    "loss": 3.760918116313405e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 7,
+    "step": 179,
+    "loss": 3.0933861125959083e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 7,
+    "step": 180,
+    "loss": 2.9861077564419247e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 7,
+    "step": 181,
+    "loss": 2.8013408154947683e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 7,
+    "step": 182,
+    "loss": 4.2258001485606655e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 7,
+    "step": 183,
+    "loss": 2.03843810595572e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 7,
+    "step": 184,
+    "loss": 6.490525265689939e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 7,
+    "step": 185,
+    "loss": 4.184072167845443e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 7,
+    "step": 186,
+    "loss": 7.521541556343436e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 7,
+    "step": 187,
+    "loss": 2.4854527509887703e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 7,
+    "step": 188,
+    "loss": 3.683431714307517e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 7,
+    "step": 189,
+    "loss": 2.2112842998467386e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 7,
+    "step": 190,
+    "loss": 5.221094761509448e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 7,
+    "step": 191,
+    "loss": 2.9622637157444842e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 8,
+    "step": 192,
+    "loss": 7.748597568024707e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 8,
+    "step": 193,
+    "loss": 1.126515599025879e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 8,
+    "step": 194,
+    "loss": 4.768369876728684e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 8,
+    "step": 195,
+    "loss": 2.473533822922036e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 8,
+    "step": 196,
+    "loss": 9.53673520598386e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 8,
+    "step": 197,
+    "loss": 1.9728768165805377e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 8,
+    "step": 198,
+    "loss": 1.3709052382182563e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 8,
+    "step": 199,
+    "loss": 1.5914207324385643e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 8,
+    "step": 200,
+    "loss": 3.129156903014518e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 8,
+    "step": 201,
+    "loss": 3.0516654078383e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 8,
+    "step": 202,
+    "loss": 2.9384278604993597e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 8,
+    "step": 203,
+    "loss": 2.747699363681022e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 8,
+    "step": 204,
+    "loss": 3.5880759241990745e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 8,
+    "step": 205,
+    "loss": 2.3483686163672246e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 8,
+    "step": 206,
+    "loss": 3.945680145989172e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 8,
+    "step": 207,
+    "loss": 1.8894321328843944e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 8,
+    "step": 208,
+    "loss": 5.6144428526749834e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 8,
+    "step": 209,
+    "loss": 2.8669019229710102e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 8,
+    "step": 210,
+    "loss": 8.719399920664728e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 8,
+    "step": 211,
+    "loss": 2.3304881324293092e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 8,
+    "step": 212,
+    "loss": 4.148311563767493e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 8,
+    "step": 213,
+    "loss": 1.9371140297153033e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 8,
+    "step": 214,
+    "loss": 3.9397127693518996e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 8,
+    "step": 215,
+    "loss": 2.652337025210727e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 9,
+    "step": 216,
+    "loss": 5.960461066933931e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 9,
+    "step": 217,
+    "loss": 1.484134372731205e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 9,
+    "step": 218,
+    "loss": 5.960461635368119e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 9,
+    "step": 219,
+    "loss": 1.656983295106329e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 9,
+    "step": 220,
+    "loss": 8.344644015778613e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 9,
+    "step": 221,
+    "loss": 1.8357912267674692e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 9,
+    "step": 222,
+    "loss": 1.3113005934428656e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 9,
+    "step": 223,
+    "loss": 1.5735397028038278e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 9,
+    "step": 224,
+    "loss": 2.992074405483436e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 9,
+    "step": 225,
+    "loss": 2.2649257516604848e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 9,
+    "step": 226,
+    "loss": 2.8192249374114908e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 9,
+    "step": 227,
+    "loss": 2.6940580937662162e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 9,
+    "step": 228,
+    "loss": 2.3304908609134145e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 9,
+    "step": 229,
+    "loss": 2.461612348270137e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 9,
+    "step": 230,
+    "loss": 3.129153265035711e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 9,
+    "step": 231,
+    "loss": 1.7881080566439778e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 9,
+    "step": 232,
+    "loss": 5.6680812122067437e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 9,
+    "step": 233,
+    "loss": 2.8311411369941197e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 9,
+    "step": 234,
+    "loss": 4.166191502008587e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 9,
+    "step": 235,
+    "loss": 2.1636022211168893e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 9,
+    "step": 236,
+    "loss": 3.230467700632289e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 9,
+    "step": 237,
+    "loss": 1.9728755432879552e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 9,
+    "step": 238,
+    "loss": 4.076792538398877e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 9,
+    "step": 239,
+    "loss": 2.8669019229710102e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 10,
+    "step": 240,
+    "loss": 5.364415187614213e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 10,
+    "step": 241,
+    "loss": 1.0847932571778074e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 10,
+    "step": 242,
+    "loss": 4.1723239974089665e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 10,
+    "step": 243,
+    "loss": 2.0801608116016723e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 10,
+    "step": 244,
+    "loss": 5.960461635368119e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 10,
+    "step": 245,
+    "loss": 1.1920798897335771e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 10,
+    "step": 246,
+    "loss": 1.1920916449525976e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 10,
+    "step": 247,
+    "loss": 1.60930139827542e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 10,
+    "step": 248,
+    "loss": 3.111276600975543e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 10,
+    "step": 249,
+    "loss": 2.1338011720217764e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 10,
+    "step": 250,
+    "loss": 2.3185704776551574e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 10,
+    "step": 251,
+    "loss": 2.1755227862740867e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 10,
+    "step": 252,
+    "loss": 2.2887694285600446e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 10,
+    "step": 253,
+    "loss": 1.966915442608297e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 10,
+    "step": 254,
+    "loss": 3.0755119951209053e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 10,
+    "step": 255,
+    "loss": 1.4304915566754062e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 10,
+    "step": 256,
+    "loss": 5.2151350246276706e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 10,
+    "step": 257,
+    "loss": 2.6165760573348962e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 10,
+    "step": 258,
+    "loss": 4.398629971547052e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 10,
+    "step": 259,
+    "loss": 1.9609549781307578e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 10,
+    "step": 260,
+    "loss": 2.5271734557463787e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 10,
+    "step": 261,
+    "loss": 1.752346543071326e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 10,
+    "step": 262,
+    "loss": 4.046992035000585e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 10,
+    "step": 263,
+    "loss": 2.312607284693513e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 11,
+    "step": 264,
+    "loss": 5.364415187614213e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 11,
+    "step": 265,
+    "loss": 9.775070793693885e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 11,
+    "step": 266,
+    "loss": 4.768369876728684e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 11,
+    "step": 267,
+    "loss": 1.6629435776849277e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 11,
+    "step": 268,
+    "loss": 7.152552825573366e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 11,
+    "step": 269,
+    "loss": 1.0073094017570838e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 11,
+    "step": 270,
+    "loss": 1.311300820816541e-06,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 11,
+    "step": 271,
+    "loss": 1.555659036966972e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 11,
+    "step": 272,
+    "loss": 3.0397550290217623e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 11,
+    "step": 273,
+    "loss": 1.9132728994009085e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 11,
+    "step": 274,
+    "loss": 2.3185704776551574e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 11,
+    "step": 275,
+    "loss": 1.7285052308579907e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 11,
+    "step": 276,
+    "loss": 2.2887694285600446e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 11,
+    "step": 277,
+    "loss": 1.901352879940532e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 11,
+    "step": 278,
+    "loss": 2.4377754016313702e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 11,
+    "step": 279,
+    "loss": 1.4185709005687386e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 11,
+    "step": 280,
+    "loss": 3.689391814987175e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 11,
+    "step": 281,
+    "loss": 2.6582971258903854e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 11,
+    "step": 282,
+    "loss": 4.440349221113138e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 11,
+    "step": 283,
+    "loss": 1.6271809727186337e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 11,
+    "step": 284,
+    "loss": 2.3900895030237734e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 11,
+    "step": 285,
+    "loss": 1.4185709005687386e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 11,
+    "step": 286,
+    "loss": 3.152986755594611e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 11,
+    "step": 287,
+    "loss": 2.1516818378586322e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 12,
+    "step": 288,
+    "loss": 5.364415187614213e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 12,
+    "step": 289,
+    "loss": 9.119431524595711e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 12,
+    "step": 290,
+    "loss": 4.1723239974089665e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 12,
+    "step": 291,
+    "loss": 1.3828099326929078e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 12,
+    "step": 292,
+    "loss": 6.556507514687837e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 12,
+    "step": 293,
+    "loss": 1.072873237717431e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 12,
+    "step": 294,
+    "loss": 8.344644015778613e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 12,
+    "step": 295,
+    "loss": 1.0073095836560242e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 12,
+    "step": 296,
+    "loss": 2.4079781724140048e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 12,
+    "step": 297,
+    "loss": 1.877511567727197e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 12,
+    "step": 298,
+    "loss": 1.8298318536835723e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 12,
+    "step": 299,
+    "loss": 1.7165846657007933e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 12,
+    "step": 300,
+    "loss": 2.2708885808242485e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 12,
+    "step": 301,
+    "loss": 1.8953925973619334e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 12,
+    "step": 302,
+    "loss": 2.4079745344351977e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 12,
+    "step": 303,
+    "loss": 1.1741981325030793e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 12,
+    "step": 304,
+    "loss": 2.5390936571056955e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 12,
+    "step": 305,
+    "loss": 2.181482886953745e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 12,
+    "step": 306,
+    "loss": 2.8192205718369223e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 12,
+    "step": 307,
+    "loss": 1.674863051448483e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 12,
+    "step": 308,
+    "loss": 2.5033326892298646e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 12,
+    "step": 309,
+    "loss": 1.3649281754624099e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 12,
+    "step": 310,
+    "loss": 2.920542647188995e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 12,
+    "step": 311,
+    "loss": 1.7702272089081816e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 13,
+    "step": 312,
+    "loss": 4.7683693082944956e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 13,
+    "step": 313,
+    "loss": 9.655863323132508e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 13,
+    "step": 314,
+    "loss": 3.5762778338721546e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 13,
+    "step": 315,
+    "loss": 9.953885637514759e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 13,
+    "step": 316,
+    "loss": 7.152552825573366e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 13,
+    "step": 317,
+    "loss": 8.106174391286913e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 13,
+    "step": 318,
+    "loss": 8.940690463532519e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 13,
+    "step": 319,
+    "loss": 1.4185720829118509e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 13,
+    "step": 320,
+    "loss": 2.3662563762627542e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 13,
+    "step": 321,
+    "loss": 1.6748628695495427e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 13,
+    "step": 322,
+    "loss": 2.235127794847358e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 13,
+    "step": 323,
+    "loss": 1.7106243831221946e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 13,
+    "step": 324,
+    "loss": 2.2708889446221292e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 13,
+    "step": 325,
+    "loss": 1.889432496682275e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 13,
+    "step": 326,
+    "loss": 3.0516712286043912e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 13,
+    "step": 327,
+    "loss": 1.1384361641830765e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 13,
+    "step": 328,
+    "loss": 2.473531822033692e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 13,
+    "step": 329,
+    "loss": 1.7940683392225765e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 13,
+    "step": 330,
+    "loss": 3.2066272979136556e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 13,
+    "step": 331,
+    "loss": 1.3708885489904787e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 13,
+    "step": 332,
+    "loss": 2.7894198865396902e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 13,
+    "step": 333,
+    "loss": 1.233801322086947e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 13,
+    "step": 334,
+    "loss": 2.8251806725165807e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 13,
+    "step": 335,
+    "loss": 1.561617864354048e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 14,
+    "step": 336,
+    "loss": 4.172323428974778e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 14,
+    "step": 337,
+    "loss": 1.031150168273598e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 14,
+    "step": 338,
+    "loss": 4.1723239974089665e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 14,
+    "step": 339,
+    "loss": 1.3589687114290427e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 14,
+    "step": 340,
+    "loss": 5.960461635368119e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 14,
+    "step": 341,
+    "loss": 7.569739864266012e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 14,
+    "step": 342,
+    "loss": 8.344644015778613e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 14,
+    "step": 343,
+    "loss": 1.4245324564399198e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 14,
+    "step": 344,
+    "loss": 2.4318191208294593e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 14,
+    "step": 345,
+    "loss": 1.6927437172853388e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 14,
+    "step": 346,
+    "loss": 2.2291676941676997e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 14,
+    "step": 347,
+    "loss": 1.4066503354115412e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 14,
+    "step": 348,
+    "loss": 1.776189310476184e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 14,
+    "step": 349,
+    "loss": 1.704664646240417e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 14,
+    "step": 350,
+    "loss": 2.4318154828506522e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 14,
+    "step": 351,
+    "loss": 1.0073086741613224e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 14,
+    "step": 352,
+    "loss": 2.264925387862604e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 14,
+    "step": 353,
+    "loss": 1.764266926329583e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 14,
+    "step": 354,
+    "loss": 3.897992428392172e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 14,
+    "step": 355,
+    "loss": 1.180158415081678e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 14,
+    "step": 356,
+    "loss": 1.609299761184957e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 14,
+    "step": 357,
+    "loss": 1.0192294212174602e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 14,
+    "step": 358,
+    "loss": 2.050357943517156e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 14,
+    "step": 359,
+    "loss": 1.6808233340270817e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 15,
+    "step": 360,
+    "loss": 4.7683693082944956e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 15,
+    "step": 361,
+    "loss": 5.900827545701759e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 15,
+    "step": 362,
+    "loss": 2.9802316703353426e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 15,
+    "step": 363,
+    "loss": 1.0847938028746285e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 15,
+    "step": 364,
+    "loss": 5.364415756048402e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 15,
+    "step": 365,
+    "loss": 9.715472515381407e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 15,
+    "step": 366,
+    "loss": 6.556507514687837e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 15,
+    "step": 367,
+    "loss": 1.0609526725602336e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 15,
+    "step": 368,
+    "loss": 1.9788423742284067e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 15,
+    "step": 369,
+    "loss": 1.4006898709340021e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 15,
+    "step": 370,
+    "loss": 2.211287028330844e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 15,
+    "step": 371,
+    "loss": 1.5079753211466596e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 15,
+    "step": 372,
+    "loss": 2.2053263819543645e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 15,
+    "step": 373,
+    "loss": 1.525856350781396e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 15,
+    "step": 374,
+    "loss": 1.9669192624860443e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 15,
+    "step": 375,
+    "loss": 1.0013483915827237e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 15,
+    "step": 376,
+    "loss": 1.9847955627483316e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 15,
+    "step": 377,
+    "loss": 1.4900944734108634e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 15,
+    "step": 378,
+    "loss": 2.8430609745555557e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 15,
+    "step": 379,
+    "loss": 1.1145948519697413e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 15,
+    "step": 380,
+    "loss": 1.4781735444557853e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 15,
+    "step": 381,
+    "loss": 1.090753448806936e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 15,
+    "step": 382,
+    "loss": 1.627180608920753e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 15,
+    "step": 383,
+    "loss": 1.3708885489904787e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 16,
+    "step": 384,
+    "loss": 4.172323428974778e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 16,
+    "step": 385,
+    "loss": 7.033301699266303e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 16,
+    "step": 386,
+    "loss": 3.5762778338721546e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 16,
+    "step": 387,
+    "loss": 1.0073091289086733e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 16,
+    "step": 388,
+    "loss": 5.364415756048402e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 16,
+    "step": 389,
+    "loss": 8.583004273532424e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 16,
+    "step": 390,
+    "loss": 8.940690463532519e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 16,
+    "step": 391,
+    "loss": 8.761817298363894e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 16,
+    "step": 392,
+    "loss": 1.9669214452733286e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 16,
+    "step": 393,
+    "loss": 1.4185707186697982e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 16,
+    "step": 394,
+    "loss": 1.4304931937658694e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 16,
+    "step": 395,
+    "loss": 1.3768488315690774e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 16,
+    "step": 396,
+    "loss": 2.187445898016449e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 16,
+    "step": 397,
+    "loss": 1.2755237548844889e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 16,
+    "step": 398,
+    "loss": 1.9132770830765367e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 16,
+    "step": 399,
+    "loss": 9.357844646729063e-06,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 16,
+    "step": 400,
+    "loss": 2.4377708541578613e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 16,
+    "step": 401,
+    "loss": 1.5675781469326466e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 16,
+    "step": 402,
+    "loss": 3.29602844431065e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 16,
+    "step": 403,
+    "loss": 1.3291663890413474e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 16,
+    "step": 404,
+    "loss": 1.5973791960277595e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 16,
+    "step": 405,
+    "loss": 1.0490311069588643e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 16,
+    "step": 406,
+    "loss": 1.7821474102674983e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 16,
+    "step": 407,
+    "loss": 1.478173908253666e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 17,
+    "step": 408,
+    "loss": 4.172323428974778e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 17,
+    "step": 409,
+    "loss": 7.390925020445138e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 17,
+    "step": 410,
+    "loss": 2.9802316703353426e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 17,
+    "step": 411,
+    "loss": 1.0430714610265568e-05,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 17,
+    "step": 412,
+    "loss": 4.768369876728684e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 17,
+    "step": 413,
+    "loss": 6.735286206094315e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 17,
+    "step": 414,
+    "loss": 6.556508083122026e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 17,
+    "step": 415,
+    "loss": 7.569741683255415e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 17,
+    "step": 416,
+    "loss": 1.925200194818899e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 17,
+    "step": 417,
+    "loss": 1.2695632904069498e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 17,
+    "step": 418,
+    "loss": 1.4543345969286747e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 17,
+    "step": 419,
+    "loss": 1.2218807569297496e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 17,
+    "step": 420,
+    "loss": 1.734467878122814e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 17,
+    "step": 421,
+    "loss": 1.2099601917725522e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 17,
+    "step": 422,
+    "loss": 1.8834760339814238e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 17,
+    "step": 423,
+    "loss": 8.821412848192267e-06,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 17,
+    "step": 424,
+    "loss": 2.229164238087833e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 17,
+    "step": 425,
+    "loss": 1.4364518392540049e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 17,
+    "step": 426,
+    "loss": 2.771539584500715e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 17,
+    "step": 427,
+    "loss": 1.1622774763964117e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 17,
+    "step": 428,
+    "loss": 1.8119486412615515e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 17,
+    "step": 429,
+    "loss": 9.298241820943076e-06,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 17,
+    "step": 430,
+    "loss": 1.7940677935257554e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 17,
+    "step": 431,
+    "loss": 1.3112854503560811e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 18,
+    "step": 432,
+    "loss": 4.172323428974778e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 18,
+    "step": 433,
+    "loss": 6.079639661038527e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 18,
+    "step": 434,
+    "loss": 2.9802316703353426e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 18,
+    "step": 435,
+    "loss": 6.914096957189031e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 18,
+    "step": 436,
+    "loss": 4.768369876728684e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 18,
+    "step": 437,
+    "loss": 6.735286206094315e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 18,
+    "step": 438,
+    "loss": 7.152553962441743e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 18,
+    "step": 439,
+    "loss": 6.973702966206474e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 18,
+    "step": 440,
+    "loss": 1.9192399122403003e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 18,
+    "step": 441,
+    "loss": 1.2516821698227432e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 18,
+    "step": 442,
+    "loss": 1.758309008437209e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 18,
+    "step": 443,
+    "loss": 1.1145948519697413e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 18,
+    "step": 444,
+    "loss": 1.3768504686595406e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 18,
+    "step": 445,
+    "loss": 1.0669122275430709e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 18,
+    "step": 446,
+    "loss": 1.9073166185989976e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 18,
+    "step": 447,
+    "loss": 8.821412848192267e-06,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 18,
+    "step": 448,
+    "loss": 2.2232041374081746e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 18,
+    "step": 449,
+    "loss": 1.2576426343002822e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 18,
+    "step": 450,
+    "loss": 1.9013521523447707e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 18,
+    "step": 451,
+    "loss": 1.0728725101216696e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 18,
+    "step": 452,
+    "loss": 1.4781735444557853e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 18,
+    "step": 453,
+    "loss": 8.523394171788823e-06,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 18,
+    "step": 454,
+    "loss": 1.4483720406133216e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 18,
+    "step": 455,
+    "loss": 1.0967138223350048e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 19,
+    "step": 456,
+    "loss": 2.9802313861182483e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 19,
+    "step": 457,
+    "loss": 5.245183729130076e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 19,
+    "step": 458,
+    "loss": 2.9802316703353426e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 19,
+    "step": 459,
+    "loss": 8.881021130946465e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 19,
+    "step": 460,
+    "loss": 5.364415756048402e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 19,
+    "step": 461,
+    "loss": 5.960434464213904e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 19,
+    "step": 462,
+    "loss": 7.748599273327272e-07,
+    "target_label": "Paris"
+  },
+  {
+    "epoch": 19,
+    "step": 463,
+    "loss": 7.748552889097482e-06,
+    "target_label": "Rome"
+  },
+  {
+    "epoch": 19,
+    "step": 464,
+    "loss": 1.931160659296438e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 19,
+    "step": 465,
+    "loss": 1.1145948519697413e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 19,
+    "step": 466,
+    "loss": 1.7702295735944062e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 19,
+    "step": 467,
+    "loss": 1.090753448806936e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 19,
+    "step": 468,
+    "loss": 1.7285075955442153e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 19,
+    "step": 469,
+    "loss": 1.2039999091939535e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 19,
+    "step": 470,
+    "loss": 1.895396417239681e-05,
+    "target_label": "dog"
+  },
+  {
+    "epoch": 19,
+    "step": 471,
+    "loss": 8.523395990778226e-06,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 19,
+    "step": 472,
+    "loss": 1.8417498722556047e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 19,
+    "step": 473,
+    "loss": 1.263602916878881e-05,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 19,
+    "step": 474,
+    "loss": 1.8536702555138618e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 19,
+    "step": 475,
+    "loss": 9.238638085662387e-06,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 19,
+    "step": 476,
+    "loss": 1.3410866813501343e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 19,
+    "step": 477,
+    "loss": 8.940621228248347e-06,
+    "target_label": "happy"
+  },
+  {
+    "epoch": 19,
+    "step": 478,
+    "loss": 1.3053248039796017e-05,
+    "target_label": "sad"
+  },
+  {
+    "epoch": 19,
+    "step": 479,
+    "loss": 1.1920790711883456e-05,
+    "target_label": "happy"
+  }
+]

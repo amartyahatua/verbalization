@@ -1,0 +1,134 @@
+# ============================================================
+# STAGE 0 — One-time setup
+# ============================================================
+pip install -r requirements.txt
+
+# Llama-3.1-8B-Instruct is gated on HF Hub: accept the license at
+# https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct, then
+huggingface-cli login
+# (or `export HF_TOKEN=...`)
+# NOTE: also separately request/confirm access is ACCEPTED at
+# https://huggingface.co/settings/gated-repos -- a valid token alone does not
+# grant access to a gated repo, and a stray HF_TOKEN env var can silently
+# override a fresh huggingface-cli login with a stale/wrong-account token.
+
+# sae_release in stage1/config.py ("llama-3.1-8b-instruct-andyrdt") has been checked
+# against a live sae_lens 6.49.1 install and its sae_id_template fixed accordingly
+# (see stage1/config.py's docstring) -- but stage2_alpha/steer_alphas are STILL
+# starting-point placeholders, not calibrated values. Do stage 0.5 below before
+# trusting any full run.
+
+
+# ============================================================
+# STAGE 0.5 — Calibrate stage2_alpha for THIS model before anything else
+# ============================================================
+cd stage2
+python alpha_sweep.py --layer 11 --model_name "meta-llama/Llama-3.1-8B-Instruct" \
+    --recompute --alphas 4 8 12 16 24 32 48
+# Read the actual generations. Find the alpha band where reports engage with the
+# clamped concept but haven't collapsed into gibberish, then update
+# stage1/config.py's stage2_alpha (and steer_alphas, if Stage 1's causal-efficacy
+# tagging looks off) to match -- same workflow the original Qwen2 config used to
+# move from GPT-2's 8.0 to 6.0. Everything below assumes this has been done.
+cd ..
+
+
+# ============================================================
+# STAGE 1 — Build the direction bank
+# ============================================================
+cd stage1
+pip install -r ../requirements.txt
+
+# Sanity check first (no downloads, no GPU needed)
+python build_direction_bank.py --dry_run
+
+# Real run — expect this to be far slower/more memory-hungry than the Qwen2-0.5B
+# run (8B params, unbatched J-lens loop: 7 layers x 8 tokens x jlens_n_contexts
+# forward+backward passes). Consider lowering jlens_n_contexts in config.py for
+# a first end-to-end pass before committing to the full 300.
+python build_direction_bank.py
+# -> direction_bank/vectors.pt, direction_bank/metadata.json
+
+
+# ============================================================
+# STAGE 2 — Native verbalizability (H1)
+# ============================================================
+cd ../stage2
+
+python stage2_elicit.py --dry_run
+python stage2_elicit.py --bank_dir ../stage1/direction_bank
+# -> stage2_results/elicitation_results.json, blind_judging.csv
+
+# Optional: re-check calibration once you have a real bank (same command as Stage 0.5,
+# now pointed at the real bank instead of --recompute)
+python alpha_sweep.py --bank_dir ../stage1/direction_bank --layer 11 --alphas 4 8 12 16 24 32
+
+
+# ============================================================
+# STAGE 3 — Decorrelation test (H3, core causal experiment)
+# ============================================================
+cd ../stage3
+
+python stage3_run.py --dry_run
+python stage3_run.py --bank_dir ../stage1/direction_bank
+# -> stage3_results/stage3_results.json
+
+
+# ============================================================
+# STAGE 4 — Inducibility training (H2)
+# ============================================================
+cd ../stage4
+
+python stage4_train.py --dry_run
+python stage4_train.py --bank_dir ../stage1/direction_bank
+# -> stage4_adapter/ (adapter weights, split.json, training_history.json, training_eval.json)
+# LoRA target_modules defaults to ["q_proj","k_proj","v_proj","o_proj"], already correct
+# for Llama-3.x's architecture (same naming as Qwen2, unchanged between 3.0 and 3.1) --
+# no --target_modules override needed.
+
+
+# ============================================================
+# STAGE 5 — Generalization tests (H2, H4, H5 — decisive stage)
+# ============================================================
+cd ../stage5
+
+python stage5_run.py --dry_run
+python stage5_run.py --adapter_dir ../stage4/stage4_adapter --bank_dir ../stage1/direction_bank
+# -> stage5_results/stage5_results.json
+
+
+# ============================================================
+# STAGE 6 — Metrics aggregation
+# ============================================================
+cd ../stage6
+
+python stage6_report.py \
+    --stage3 ../stage3/stage3_results/stage3_results.json \
+    --stage4_eval ../stage4/stage4_adapter/training_eval.json \
+    --stage5 ../stage5/stage5_results/stage5_results.json
+# -> stage6_report/stage6_metrics.json, stage6_summary.md
+
+
+# ============================================================
+# STAGE 7 — Safety capstone (covert-cognition / prompt injection)
+# ============================================================
+cd ../stage7
+
+python stage7_run.py --dry_run
+python stage7_run.py --bank_dir ../stage1/direction_bank
+# alpha defaults to CFG.stage2_alpha (the calibrated value from Stage 0.5/2) if
+# --alpha isn't passed; layer defaults to 19 (middle of CFG.sae_layers). Override
+# either explicitly if you calibrated a different layer, e.g.:
+#   python stage7_run.py --bank_dir ../stage1/direction_bank --layer 19 --alpha 12.0
+
+
+# ============================================================
+# CAMERA-READY ADDITIONS  (see PROTOCOL.md for definitions, the ordered run plan and how to read the controls)
+# ============================================================
+# Offline tests, no GPU/downloads needed:        python -m pytest tests -q
+# Natural activation scale (report alpha/||h||):  cd stage1 && python activation_scale.py
+# Output-pathway control, Stage 2 / 3 / 7:        --unembed_control   (Stage 3 also --efficacy_check, --unembed_scope all_labels)
+# Seeds / shuffle / bootstrap:                    --seed N  (Stages 2-5, 7);  --shuffle (Stages 4, 7);  --n_boot
+# Generic concepts with the capstone recipe:      stage4_train.py --input_provider varied
+# Random-direction reporter baseline:             stage4_train.py --direction_source random
+# Across-seed table:                              stage6/aggregate_seeds.py --kind stage5|stage7 <results.json ...>

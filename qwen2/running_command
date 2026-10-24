@@ -1,0 +1,77 @@
+# ============================================================
+# STAGE 1 — Build the direction bank
+# ============================================================
+cd stage1
+pip install -r ../requirements.txt
+
+# Sanity check first (no downloads, no GPU needed)
+python build_direction_bank.py --dry_run
+
+# Real run
+python build_direction_bank.py
+# -> direction_bank/vectors.pt, direction_bank/metadata.json
+
+
+# ============================================================
+# STAGE 2 — Native verbalizability (H1)
+# ============================================================
+cd ../stage2
+
+python stage2_elicit.py --dry_run
+python stage2_elicit.py --bank_dir ../stage1/direction_bank
+# -> stage2_results/elicitation_results.json, blind_judging.csv
+
+# Recommended before trusting stage2_alpha=3.0 for real: re-run the calibration sweep
+python alpha_sweep.py --layer 4 --alphas 1 2 3 4 6 8
+
+
+# ============================================================
+# STAGE 3 — Decorrelation test (H3, core causal experiment)
+# ============================================================
+cd ../stage3
+
+python stage3_run.py --dry_run
+python stage3_run.py --bank_dir ../stage1/direction_bank
+# -> stage3_results/stage3_results.json
+
+
+# ============================================================
+# STAGE 4 — Inducibility training (H2)
+# ============================================================
+cd ../stage4
+
+python stage4_train.py --dry_run
+python stage4_train.py --bank_dir ../stage1/direction_bank
+# -> stage4_adapter/ (adapter weights, split.json, training_history.json, training_eval.json)
+
+
+# ============================================================
+# STAGE 5 — Generalization tests (H2, H4, H5 — decisive stage)
+# ============================================================
+cd ../stage5
+
+python stage5_run.py --dry_run
+python stage5_run.py --adapter_dir ../stage4/stage4_adapter --bank_dir ../stage1/direction_bank
+# -> stage5_results/stage5_results.json
+
+
+# ============================================================
+# STAGE 6 — Metrics aggregation
+# ============================================================
+cd ../stage6
+
+python stage6_report.py \
+    --stage3 ../stage3/stage3_results/stage3_results.json \
+    --stage4_eval ../stage4/stage4_adapter/training_eval.json \
+    --stage5 ../stage5/stage5_results/stage5_results.json
+# -> stage6_report/stage6_metrics.json, stage6_summary.md
+
+
+# ============================================================
+# STAGE 7 — Safety capstone (covert-cognition / prompt injection)
+# ============================================================
+cd ../stage7
+
+python stage7_run.py --dry_run
+python stage7_run.py --bank_dir ../stage1/direction_bank --alpha 3.0
+# -> stage7_results/stage7_results.json

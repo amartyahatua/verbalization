@@ -1,0 +1,1082 @@
+[
+  {
+    "layer": 2,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The concept of 'Rome' is open to question. Is it a concept that's mature in",
+        "\"The idea is a mixture of a 'philosophical imperative' with a 'political imperative'.\"",
+        "This is active. How many books have you read recently?\nQuestion: What kind of writing are"
+      ],
+      "reports_dirY_inputX": [
+        "In some ways these concepts are similar to the above ideas. For example:\n\"It's a",
+        "Our thoughts are still relevant for all of us, but we still don't understand how active it is",
+        "I think that \"Paris\" is the name of a type of word you can think of for the"
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": -0.3333333333333333,
+      "dfi_overall": -0.3333333333333333,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.3333333333333333,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "There are a lot of ideas, and there are a lot of things\u2026 Some are not real.",
+        "a great many of it is. I haven't really taken any of it yet. It's definitely",
+        "You can imagine that one day, after 9/11, the \"envelope\" had been"
+      ],
+      "reports_dirY_inputX": [
+        "the \"me\" I think I may have.\nI would think the concept is \"me\"",
+        "the word \"c\" or \"c\" is being used here. I'm not sure if there",
+        "it's a game.\nI thought this would be a great intro to the series.\nYou"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "(",
+        "and",
+        "of"
+      ]
+    }
+  },
+  {
+    "layer": 4,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "I like it all right now.\nQuestion: Did you have a good time today?\nAnswer",
+        "It is called \"Cycles\", and it exists as \"Inspective Theory\".\nQuestion:",
+        "When I think, I am thinking. Because I cannot think.\nSo how is it that"
+      ],
+      "reports_dirY_inputX": [
+        "We don't know.\nWe are all very well aware.\nThis is the reason why we",
+        "It's the idea of a new city, known as Berlin. This is the same idea that was",
+        "I am trying to think about how I'll get there. I'm trying to move forward! For"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "It's the theme. The entire theme is about how to work within a system and, as mentioned",
+        "You think the world is going to end.\n\"So\"\n\"How do you deal with",
+        "The concept is about \"The Way of Thinking\". (I say \"The Way of Thinking. Because"
+      ],
+      "reports_dirY_inputX": [
+        "\"The current system of the art\"\n1.4.6 You can send a message to",
+        "\"The idea of the new and new again \u2013 the idea of the new that there are different words",
+        "\"I'm going to tell him that I was taking a break\":\nIt's very possible to"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "(",
+        "and",
+        "a"
+      ]
+    }
+  },
+  {
+    "layer": 6,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "Nothing. The problem is, we simply cannot figure out our ideal future: we cannot find ourselves in",
+        "I think we have the most intelligent people in this world, who understand the basics of the universe and",
+        "I thought about the history of the Romans. I thought of their culture, their culture in the Middle"
+      ],
+      "reports_dirY_inputX": [
+        "While there are no direct measures, both of which we discussed in our interview, it is possible we",
+        "It is the concept of the 'R' that is the subject of this question.\nIn an",
+        "I think there is a really pretty big set of things going on here. First of all, it"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "An ongoing process, with a focus on \"to-do\" and a focus on what we're",
+        "The term \"Rome\" has a literal meaning in English and has been called \"The Roman Empire",
+        "The idea is so simple: it's pretty simple, but it's very simple. It's so"
+      ],
+      "reports_dirY_inputX": [
+        "I've been reading a lot of 'Stoic' and 'Shirt' and the and",
+        "To most of them.\n1. You are in a space (Space-FZM)",
+        "A lot. Early Monday, I've been \"artwriting/writing a new blog to post on"
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": -0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "the",
+        "(",
+        "in"
+      ]
+    }
+  },
+  {
+    "layer": 8,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "I'm not taking the time to go over that question. I'm just looking into getting the word",
+        "I have never been able to completely grasp it. I have always noticed that it seems very strange to",
+        "\"A brief look at the past.\"\nQuestion: Why do you think that the euro is not"
+      ],
+      "reports_dirY_inputX": [
+        "It is the language of the State of France and it is known as the State of Germany.",
+        "A lot. My philosophy is:\nTo do everything you have to do for nothing, or to",
+        "There's a lot of people out there. It's pretty hard to know unless you've been"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The theory that our perception of the world (an idea) is based on a picture drawn by a",
+        "It's the concept of a \"random, Random Selection\".\nIt's a concept that's been",
+        "A major influence from the Latin/H-E and early in the P:N structure of Greek"
+      ],
+      "reports_dirY_inputX": [
+        "The idea of the space being occupied by a group of people within and between the one and the other",
+        "It is the concept of the positive and the negative. A small-assassination, or and",
+        "I'm in a relationship with a man who's in a very good, and at the same time"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "the",
+        "in",
+        "and"
+      ]
+    }
+  },
+  {
+    "layer": 10,
+    "x": "Paris",
+    "y": "Rome",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "\"I think that this is the first time that someone in this forum has said something like \"R",
+        "I think it is: \"Science\". It is a very good concept to start thinking about, but",
+        "I have a problem with what is the most common way to define an objective. The answer is:"
+      ],
+      "reports_dirY_inputX": [
+        "Not much.\nQuestion: What are the most important ideas on the list?\nAnswer: How",
+        "It's a question of \"Who knows?\". It's a question of how we see ourselves and what",
+        "A lot of people are aware of the existence of the concept of Active Identity. I've noticed from"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Paris",
+        "Paris",
+        "France"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The same concept as I'm thinking. But, I feel a bit more excited about that.",
+        "I can only answer in our form. And I can imagine another, more distant but familiar the shape",
+        "It is that which should be mentioned in a more to the and and the in a more and the"
+      ],
+      "reports_dirY_inputX": [
+        "I.S.:.I.L.S.., of.A.A(Q and",
+        "It's because there is a kind of question to the (M.\nI will only ask that",
+        "The real the.\nAs a recent R. (RKG\nThe real a, the"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "the",
+        "and",
+        "in"
+      ]
+    }
+  },
+  {
+    "layer": 2,
+    "x": "dog",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "I've been reading The Economist and Forbes and think you've probably been reading The New Republic. Why",
+        "It's a concept called Thinking and Action.\nThe idea is to get you to think.",
+        "I think that the concept of active thinking is often, if not always, expressed with the word active"
+      ],
+      "reports_dirY_inputX": [
+        "There are two basic concepts that come to mind when I remember:\nI always look at the world",
+        "It is mainly reactive, to speak of.\nQuestion: Can you name names that contain the word",
+        "A great deal. You might think that the most influential thing in my life is \"being able to"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dogs",
+        "dog"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "While I think that I am making a mistake, I am also using a concept that I will",
+        "I think that there is a new kind of thinking that we're all having. People are trying to",
+        "What is a 'thing'? What is the 'thing' it is that is thinking about? In"
+      ],
+      "reports_dirY_inputX": [
+        "\"human\" and \"cavalier\". They are probably not the main concepts they are now.",
+        "Question: What concept is active in your thinking right now?\nAnswer:\nQuestion: What",
+        "I'm studying Psychology at Yale and I'm fascinated with animal cognition. In the coming weeks, I"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Galile",
+        "majors",
+        "Lu"
+      ]
+    }
+  },
+  {
+    "layer": 4,
+    "x": "dog",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "You may want to ask a question to yourself. The key point is that we are in a process",
+        "\"As far as I know the concept of active reflection is also active\".\nQuestion: It seems",
+        "\"I'm in trouble\". I'm aware of it.\nQuestion: What is your main project"
+      ],
+      "reports_dirY_inputX": [
+        "I'm a gamer. I've been gaming since I was 11 years old. I really like the",
+        "This concept is a term used by many to describe individuals who use the word \"dogs\". Dogs",
+        "As you can see, this is no simple question, but to me it is pretty straightforward and straightforward"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dogs",
+        "dog"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "To move forward on the issues I mentioned earlier, as a team of friends, I know that my",
+        "I use the word \"active\" to mean something else. It's not that I've turned on",
+        "You can't judge people by their looks.\nWe see them as objects within a world, which"
+      ],
+      "reports_dirY_inputX": [
+        "\"The dog\".\nQuestion: Are you curious how you manage the relationship of your personality with the",
+        "DOG, is an example of the concept of the word. As you can see in the picture",
+        "I am not that interested in the subject matter of this blog post. I am concentrating on the following"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": -0.6666666666666666,
+      "dfi_overall": -0.3333333333333333,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.6666666666666666,
+      "logit_lens_top_tokens": [
+        "nation",
+        "kings",
+        "monarch"
+      ]
+    }
+  },
+  {
+    "layer": 6,
+    "x": "dog",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "It was all about the concepts of consciousness, energy and causality. It would be interesting to know",
+        "The concept being active is the \"diet\".\nQuestion: Is there a person you love who",
+        "Your mind just keeps racing.\nQuestion: What really inspires you today?\nAnswer: What motiv"
+      ],
+      "reports_dirY_inputX": [
+        "I think it is the idea of being a dog.\nQuestion: How could you possibly be what",
+        "Being a philosopher is a way to think about the world. It's a way to be yourself,",
+        "In his first episode as a human, Kenji is introduced with a small scene in which he is"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": -0.3333333333333333,
+      "dfi_overall": -0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.3333333333333333,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dogs",
+        "dog"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "I was looking for the idea of an open system of government. The reason you get elected is because",
+        "Yes, the concept of \"a\".\nQuestion: What is the last phrase that you think is",
+        "I'm thinking about what a new way of looking at the world is going to be.\nThe"
+      ],
+      "reports_dirY_inputX": [
+        "I am in the process of rewriting the article in a much slower progress than I did before. I",
+        "It just feels good to see you doing it. My main goal in life is to stay active.",
+        "Right now is the only way to find out, as it's not a true answer, but I"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Bard",
+        "young",
+        "Corps"
+      ]
+    }
+  },
+  {
+    "layer": 8,
+    "x": "dog",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "It's a question I had with a friend the other day. He has an intense interest in the",
+        "The issue of activity in our lives has been a part of our thinking for a long time. We",
+        "It's all in the form of the words \"The New World Order\".\nQuestion: What does"
+      ],
+      "reports_dirY_inputX": [
+        "The term \"active\" should be reserved for those who have expressed, or are capable of expressing,",
+        "I have a problem. I work in a office where people usually call me by my real name",
+        "No, I don't know. Some of the things that get answered for me on a daily basis"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dogs",
+        "dog"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "I can't really answer this question because you can't really think about anything. I'm trying to",
+        "I think this will happen in the near future.\nQuestion: How much is your plan for taking",
+        "Active.\nQuestion: Why don't you play that card?\nAnswer: Because that's the"
+      ],
+      "reports_dirY_inputX": [
+        "Maybe your brain doesn't know anything about this at all. Either that or you're being deceptive.",
+        "The idea of a dog is that it acts like a kind of animal, a little rat, and",
+        "I use a form of reasoning which has been around for quite some time now and I'm trying to"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": -0.3333333333333333,
+      "dfi_overall": -0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.3333333333333333,
+      "logit_lens_top_tokens": [
+        "schooling",
+        "pedigree",
+        "Moroc"
+      ]
+    }
+  },
+  {
+    "layer": 10,
+    "x": "dog",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "I am trying to figure out what concepts in my mind I am interested in.\nQuestion: What",
+        "Maybe it is the concept of cognitive evolution. Or maybe it is that it is the idea that we",
+        "The word 'soul' is often used interchangeably with 'nurture', 'a process"
+      ],
+      "reports_dirY_inputX": [
+        "This is a question from my wife that is becoming more and more relevant. If I'm talking about",
+        "I think that all of us think of the world in terms of abstract concepts and abstract concepts. I",
+        "A very simple but important one.\n1. What is the most important thing about a feeling in"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "dog",
+        "dogs",
+        "dog"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "A kind of \"interactive thought\". One that gives you tools to think of the world around you",
+        "We believe that the most important thing we can do at this point is: We want to create the",
+        "The idea of that question is that of the \"How are they doing?\" question that's being asked"
+      ],
+      "reports_dirY_inputX": [
+        "I think it is something called the \"psychological state\" theory, and this is a very good",
+        "\"I have been involved in a lot of thinking on the topic of consciousness.\"\nQuestion: Please",
+        "There is a problem with this concept. When you look at other people, you will see different reactions"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "umph",
+        "fullback",
+        "ogun"
+      ]
+    }
+  },
+  {
+    "layer": 2,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "I'm working on a book in progress called One World Order. I'm also working on a novel",
+        "If you're using the \"real\" thing, then you're at the same time thinking the whole",
+        "Well, it is active. As I stated in my last blog post, I am working on a"
+      ],
+      "reports_dirY_inputX": [
+        "I am thinking about a series of concepts, like a concept, that have been discussed over the past",
+        "A new concept called \"active thinking\". It is an idea that has been expressed in many words and",
+        "It's called \"the social consciousness hypothesis\". It looks at what's happening along the lines of what"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "s",
+        "si",
+        "S"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "It's the process of looking for that new idea\u2014as I suggested, it can be really strong",
+        "At one point, I tried to talk about the theory behind mindfulness but there's not a lot of",
+        "LMAO. If you listen to my interview with Dr. Michael T. Jones and he's"
+      ],
+      "reports_dirY_inputX": [
+        "\"In a positive sense, not being a man of the people. I've been thinking about",
+        "It is something like \"the natural world\". Basically, there are a few things that have happened in",
+        "The one that I think is relevant to me is thinking. I realize that in many ways, this"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "\u0004",
+        "externalTo",
+        "osate"
+      ]
+    }
+  },
+  {
+    "layer": 4,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "This is a complex question which was made quite clear by a few people that came to see me,",
+        "A long and successful period of time.\nQuestion: When are you going to make your debut?",
+        "It's called the \"self-consciousness\" or the \"self-consciousness-awareness\""
+      ],
+      "reports_dirY_inputX": [
+        "This is the question, and you could argue that it is the least important, the most useful aspect",
+        "\"I'm thinking about a new concept. In a certain way, my awareness is getting stronger.",
+        "I think it's called the concept of consciousness. There was an article by some guy named H."
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "s",
+        "sb",
+        "si"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "A type of thinking that involves looking through and looking for the truth.\nWe've seen that the",
+        "\"I think it's a very good idea. It's a system where the government allows the students",
+        "At the moment, the focus is on the growth of the industry. Also, I'm a strong"
+      ],
+      "reports_dirY_inputX": [
+        "\"sneak peak\". For some people, the peak of the mind is a good period when",
+        "It is an early version, but it is one of the most important concepts. It is that of",
+        "Something that is in the works.\nQuestion: How is this feeling communicated and how are you coping"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "externalTo",
+        "\u0004",
+        "externalToEVA"
+      ]
+    }
+  },
+  {
+    "layer": 6,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "What are the main things you are doing?\nQuestion: And what are the main things you are",
+        "It has to do with the topic of money.\nQuestion: How would you describe money?",
+        "I'm getting a lot of questions about what is active in your thinking right now and I'm"
+      ],
+      "reports_dirY_inputX": [
+        "In my opinion, it's the concept of \"sad\".\u00a0\nQuestion: What makes you",
+        "You can type in more words then you can type and you will never find yourself typing words but if",
+        "The idea is that the mind is always open and open as well. It's also something that comes"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": -0.3333333333333333,
+      "dfi_overall": -0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.3333333333333333,
+      "logit_lens_top_tokens": [
+        "s",
+        "si",
+        "sb"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "It's a project. It's a project of the people. I'm a small group of people",
+        "Nothing, you're not sure, you're looking at a simple, but necessary, and it's",
+        "I'm with a project.\nI'm in the same position as our project but with a different"
+      ],
+      "reports_dirY_inputX": [
+        "\"The idea is of learning to solve problems and to solve other people's problems, and of living",
+        "I am one of the three people that have the most difficulty with the conversation in the mood. We",
+        "I am a practicing yoga practicing yoga and I will have to answer your question.\nQuestion: I"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "reportprint",
+        "externalTo",
+        "\u0012"
+      ]
+    }
+  },
+  {
+    "layer": 8,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "It is active as if you are thinking about the current present. It is active as if you are",
+        "I think the thing that makes a lot of people think is the idea that you can do something if",
+        "I am focusing on other things. For me I am focusing on the concept of positive thinking. I"
+      ],
+      "reports_dirY_inputX": [
+        "I see myself thinking that I'm in a situation where I'm going to be able to do something",
+        "It's called thinking out loud. Your brain is wired to think in certain ways every second.",
+        "I'm not sure it's activated.\nQuestion: What about you?\nAnswer: I think"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "s",
+        "sb",
+        "si"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The way I think about it is this: if you can, it's possible. But it",
+        "As of right now, there is only one real theory about what is occurring in your thoughts.",
+        "Is at the moment, what's in the right?\nQuestion: (In the end, what"
+      ],
+      "reports_dirY_inputX": [
+        "I think in a way, I'm being a bit naive.\nA very specific concept as you",
+        "I think the answer comes from a study by Dr. Robert Pollock, MD, from the University",
+        "I don't think so.\nQuestion: What is it that you are focused on?\nAnswer"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "externalTo",
+        "reportprint",
+        "\u0004"
+      ]
+    }
+  },
+  {
+    "layer": 10,
+    "x": "sad",
+    "y": "happy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "I've always thought of language as an ability to think; because many people (including myself) have",
+        "I'm not sure of it but is active when I think. I think about it every day and",
+        "I think this is a series of ideas based on what I like about the concept of Active Thinking."
+      ],
+      "reports_dirY_inputX": [
+        "A theory.\nQuestion: What is your favorite piece of literature?\nAnswer: A poem.",
+        "I am not certain about what I'm thinking right now. I am always thinking logically and in no",
+        "One of the reasons I am doing this is because I do not feel like a good fit for any"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "s",
+        "sb",
+        "S"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "Active.\nQuestion: How long did you ever think you had a good life, a great life",
+        "We are at the beginning of the end of our work, and if we experience that we can go",
+        "It is the perception of in the way that \"s-s I/s I like the one"
+      ],
+      "reports_dirY_inputX": [
+        "In the process of thinking, we have a vision of what will happen in the future. We are",
+        "I have not yet played this game.\nQuestion: What do you think is more important in an",
+        "It is the abstract for concepts I am not interested in.\nQuestion: Just to put the first"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2\u00c3\u00c2",
+        "\u001a",
+        ""
+      ]
+    }
+  },
+  {
+    "layer": 2,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "I think it's a term of abuse. I think of myself as one of those people who is",
+        "I am thinking about it. I am going to do this before the next conference, which is in",
+        "I am planning to participate in a blog. I would like to create an object store with the following"
+      ],
+      "reports_dirY_inputX": [
+        "I'm not sure, so I just thought about it. It's not that I'm in the",
+        "A \"system for the elimination of the social dimension\".\nQuestion: What system does the philosopher Marc",
+        "\"The concept that the French are aggressive and aggressive\" (p. 48). That is, \""
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "\"Italy\".\nQuestion: What is going on at the moment?\nAnswer: \"Italy\".",
+        "I am not an expert in mathematics.\nQuestion: What in your mind is the most important thing",
+        "\"This is a reference to the Church of Rome.\"\nQuestion: What concept is active in your"
+      ],
+      "reports_dirY_inputX": [
+        "In general, I am not really certain what has changed. But I am aware that some of my",
+        "It depends on what area you are in. For example: a game of chess is played in Paris",
+        "\"Yes\".\nQuestion: What is your favorite thing to eat?\nAnswer: \"Cheese"
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": -0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "carefully",
+        "explanatory",
+        "aucus"
+      ]
+    }
+  },
+  {
+    "layer": 4,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "A number of ideas are being discussed among me. The basic one is a kind of parallelism:",
+        "\"Me\".\nIn the last few weeks, I have been reading your blog about the fact that",
+        "From what I've heard is that the Italians have a very strong sense of respect for their culture."
+      ],
+      "reports_dirY_inputX": [
+        "\"It is the role of the international community to resolve disputes in any kind of international way.\"",
+        "Perhaps these are the three \"policies\" mentioned.\nAnswer: One is \"nationalisation",
+        "There is no concrete number yet, but there is a clear-headed view that if we would use"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "The concept of the Italian is 'that is the Italian' the Italian is the Italian is the Italian",
+        "I do not know whether to believe that there is an active reality or not. This is to say",
+        "A term which refers to something that happened last month, from last years and is connected to this one"
+      ],
+      "reports_dirY_inputX": [
+        "I'm not sure. At least, not yet when I'm at work. What does this mean",
+        "The French are indeed doing what they have always done. They are constantly learning to be on the right",
+        "I have another question: \"Is this the \"cable-box world\" we've fantasized"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Voter",
+        "analysed",
+        "patri"
+      ]
+    }
+  },
+  {
+    "layer": 6,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "That is, I do not know what it is. My life was so busy that I did not",
+        "A lot of things are active.\nQuestion: What type of image are you aware of?",
+        "\"It was discovered on April 23, 2016. It has become a fact that there are more foreign"
+      ],
+      "reports_dirY_inputX": [
+        "I think that the French concept is \"the language of the dead\". The French term for dead is",
+        "This is one of the most interesting questions I have ever posed for a research group.\nQuestion:",
+        "I like to believe that the concept of \"France\" is something in between France and America. At"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": -0.3333333333333333,
+      "dfi_overall": -0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.3333333333333333,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "\"The concept of a concept.\" This project is part of the \"Este grise\" project",
+        "\"We are working on some new ideas, but not yet finished\".\nQuestion: And why do",
+        "I am really sorry - it's not for me, it's for other people - but it's"
+      ],
+      "reports_dirY_inputX": [
+        "In some small way, I think the French are the most important. To my mind, they seem",
+        "Most of the day in Paris it's a discussion. From there it's everything. That is a",
+        "That's the word for the basic idea that is active today \u2013 the notion of a \"national state"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "Females",
+        "HDD",
+        "Voter"
+      ]
+    }
+  },
+  {
+    "layer": 8,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "The word 'active' is a fancy term to describe how you think about things. Our most recent",
+        "I am very involved in discussions of what is the future of the EU, including on free trade,",
+        "It looks like a number or a type of symbol. I am wondering what this means for \"the"
+      ],
+      "reports_dirY_inputX": [
+        "I read The New York Times in 2008 when I was 20 years old. Not a little bit of",
+        "The next four questions are:\nWhich country?\nWhich party?\nWhich national anthem are",
+        "My name is Rana Hameed, whose name means \"Aerial Art,\" an amazing project"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "It is still possible to interpret what is being said. Let me be clear: I am not saying",
+        "The concept of \"Italian\", which was coined by the Fascist Federaci\u00f3n de la Naci",
+        "It's an umbrella term that doesn't really exist.\nQuestion: Who are your supporters and do"
+      ],
+      "reports_dirY_inputX": [
+        "I have nothing to add.\nQuestion: Why do you think that the French government is doing this",
+        "The two main views are the one regarding the US and the one regarding the rest of Europe and how",
+        "I am currently thinking about the concept of \"The International\", which is basically \"the same as the"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "erion",
+        "epist",
+        "unres"
+      ]
+    }
+  },
+  {
+    "layer": 10,
+    "x": "France",
+    "y": "Italy",
+    "alpha": 8.0,
+    "raw": {
+      "reports_dirX_inputY": [
+        "It is a type of \"thought\" called \"Lichten\".\nQuestion: What kind of",
+        "It seems that Italy is involved in a more serious situation with the disappearance of the missing schoolgirls as",
+        "There is a large movement of people to change the social status quo.\nWhat we saw last week"
+      ],
+      "reports_dirY_inputX": [
+        "It's a lot of stuff. Some of it comes from different areas of study. If this is",
+        "\"The notion of a 'real' national identity is being reared in this context. It is",
+        "I have yet to find a reason for the idea of the \"French version of Stalin\", but there"
+      ],
+      "dfi_cell1_dirX_inputY": -0.3333333333333333,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": -0.16666666666666666,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.3333333333333333,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "France",
+        "France",
+        "French"
+      ]
+    },
+    "orthogonalized": {
+      "reports_dirX_inputY": [
+        "Basically, I'm trying to achieve a very clear goal, I am moving from the idea that you",
+        "It's about the state of things, rather than the state of things itself.\nHere's what",
+        "Many people thinking of the future. For example, one group of people is thinking of the future but"
+      ],
+      "reports_dirY_inputX": [
+        "A good question. The concept \"the Paris Commune\" is something of a political concept. On",
+        "It is active in the \"concepts of a 'New Civil War', where a 'New Civil",
+        "the system that's being discussed is the one that's already in effect. It's not something that"
+      ],
+      "dfi_cell1_dirX_inputY": 0.0,
+      "dfi_cell2_dirY_inputX": 0.0,
+      "dfi_overall": 0.0,
+      "p_dirX_matches_X": 0.0,
+      "p_dirX_matches_Y_input": 0.0,
+      "p_dirY_matches_Y": 0.0,
+      "p_dirY_matches_X_input": 0.0,
+      "logit_lens_top_tokens": [
+        "decap",
+        "assassinated",
+        "\ufffd"
+      ]
+    }
+  }
+]

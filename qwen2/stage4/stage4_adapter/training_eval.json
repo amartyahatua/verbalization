@@ -1,0 +1,62 @@
+[
+  {
+    "target_label": "Paris",
+    "layer": 4,
+    "match_rate": 1.0,
+    "reports": [
+      "Paris",
+      "Paris",
+      "Paris"
+    ]
+  },
+  {
+    "target_label": "Rome",
+    "layer": 4,
+    "match_rate": 1.0,
+    "reports": [
+      "Rome",
+      "Rome",
+      "Rome"
+    ]
+  },
+  {
+    "target_label": "Paris",
+    "layer": 4,
+    "match_rate": 1.0,
+    "reports": [
+      "Paris",
+      "Paris",
+      "Paris"
+    ]
+  },
+  {
+    "target_label": "Rome",
+    "layer": 4,
+    "match_rate": 1.0,
+    "reports": [
+      "Rome",
+      "Rome",
+      "Rome"
+    ]
+  },
+  {
+    "target_label": "Paris",
+    "layer": 4,
+    "match_rate": 1.0,
+    "reports": [
+      "Paris",
+      "Paris",
+      "Paris"
+    ]
+  },
+  {
+    "target_label": "Rome",
+    "layer": 4,
+    "match_rate": 1.0,
+    "reports": [
+      "Rome",
+      "Rome",
+      "Rome"
+    ]
+  }
+]

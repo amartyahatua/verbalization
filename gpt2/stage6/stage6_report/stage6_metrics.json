@@ -1,0 +1,48 @@
+{
+  "pre_training": {
+    "accuracy_vs_direction_and_input": {
+      "accuracy_vs_direction": 0.0,
+      "accuracy_vs_input": 0.049999999999999996,
+      "n_entries": 20
+    },
+    "direction_following_index": {
+      "dfi_mean": -0.049999999999999996,
+      "dfi_min": -0.3333333333333333,
+      "dfi_max": 0.0,
+      "n_entries": 20
+    }
+  },
+  "post_training": {
+    "accuracy_vs_direction_and_input": {
+      "accuracy_vs_direction": 0.0,
+      "accuracy_vs_input": 1.0,
+      "n_entries": 12
+    },
+    "direction_following_index": {
+      "dfi_mean": -1.0,
+      "dfi_min": -1.0,
+      "dfi_max": -1.0,
+      "n_entries": 12
+    }
+  },
+  "generalization_gap": {
+    "correlated_accuracy": 1.0,
+    "decorrelated_direction_accuracy": 0.0,
+    "gap": 1.0
+  },
+  "jacobian_alignment_change": {
+    "before_mean": 0.028973502630833536,
+    "after_mean": 4.258941657120374e-07,
+    "delta_mean": -0.028973076736667824,
+    "n_increased": 1,
+    "n_total": 8
+  },
+  "ablation": {
+    "baseline_mean": 1.0,
+    "ablate_direction_mean": 1.0,
+    "ablate_input_mean": 0.5,
+    "direction_necessary_fraction": 0.0,
+    "input_necessary_fraction": 0.5,
+    "n_total": 8
+  }
+}
